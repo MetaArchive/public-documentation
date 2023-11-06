@@ -34,13 +34,13 @@
 
         <!--Page Tree block added by Alfred Lee-->
         <div class="sidebar">
+        <h2><a href="{{ "/" | relative_url }}">MetaArchive Cooperative</a></h2>
+        <ul>
         {% for item in site.html_pages | sort: 'id' %}
-          {% assign suffix = item.name | slice: -11, 6 %}
+          {% assign suffix = item.name | slice: -9, 6 %}
           {{% capture item_anchor %}}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{{% endcapture %}}
           {% if item.name == '/' %}
-            <h2>{{ item_anchor }}</h2>
-            <ul>
-          {% elsif suffix == '_index' %}
+          {% elsif suffix == '-index' %}
             </ul>
             <h3>{{ item_anchor }}</h3>
             <ul>
@@ -54,18 +54,18 @@
         <div class="testbar">
         <ul>
         {% for item in site.html_pages | sort: 'url' %}
-          {% assign suffix = item.name | slice: -11, 6 %}
-          {{% capture item_anchor %}}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{{% endcapture %}}
-          <li>{{ item.name }}</li><ul>
+          {% assign suffix = item.name | slice: -9, 6 %}
+          {% capture item_anchor %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endcapture %}
+          <li>{{ item.name }}<ul>
             <li>{{ suffix }}</li>
             <li>{{ item_anchor }}</li>
             <li>{{ item.title }}</li>
             <li>{{ item.id }}</li>
             <li>{{ item.url }}</li>
-          </ul>
+          </ul></li>
         {% endfor %}
         </ul>
-        </ div>
+        </div>
 
         {% if site.show_downloads %}
         <ul class="downloads">
