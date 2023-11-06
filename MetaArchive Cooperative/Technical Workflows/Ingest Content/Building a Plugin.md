@@ -1,5 +1,5 @@
-Building a Plugin
-=================
+Ingest Content — Building a Plugin
+==================================
 
 
 * 1 [Creating, Testing, & Implementing a Plugin](#BuildingaPlugin-trueCreating,Testing,&ImplementingaPlugin)
