@@ -1,0 +1,70 @@
+{
+    "ordered": [
+        {
+			"Source-Organization" : {
+				"fieldRequired" : true,
+            	"defaultValue" : "Butler University Libraries"
+    	}
+	},
+	{
+	"Organization-Address" : {
+		"defaultValue" : "Butler University Libraries, 4600 Sunset Avenue, Indianapolis, IN 46208"
+		}
+	},
+	{
+	"Contact-Name" : {
+		"fieldRequired" : true,
+		"defaultValue" : "Metadata Librarian"
+		}
+	},
+	{
+	"Contact-Phone" : {
+		"fieldRequired" : true,
+		"defaultValue" : "317-940-9349"
+		}
+	},
+	{
+	"Contact-Email" : {
+		"fieldRequired" : true,
+		"defaultValue" : "xxxxxx@butler.edu"
+		}
+	},
+	{
+	"External-Description" : {
+			"fieldRequired" : true,
+	    	"defaultValue" : "[update this]"
+		}
+	},
+	{
+	"Bagging-Date" : {
+			"fieldRequired" : true,
+			"defaultValue" : "202x-xx-xx"
+		}
+	},
+	{
+	"External-Identifier" : {
+		"defaultValue" : "[update this]"
+		}
+	},
+	{
+	"Bag-Group-Identifier" : {
+		"defaultValue" : "[if needed]"
+		}
+	},
+	{
+	"Bag-Count" : {
+		"defaultValue" : "1" 
+		}
+	},
+	{
+	"Internal-Sender-Identifier" : {
+		"defaultValue" : "[update this]"
+		}
+	},
+	{
+	"Internal-Sender-Description" : {
+		"defaultValue" : "Bag contains ---"
+           }
+        }
+    ]
+}
