@@ -1,3 +1,6 @@
+Collection
+==========
+
 **Collection** means the aggregated content to be preserved under the banner of one metadata record in the Conspectus database.
 
 The scope and boundaries of collections are determined by the member. Typically, collections correspond to either an archival collection, bibliographic collection, or artificial collections around a particular subject.

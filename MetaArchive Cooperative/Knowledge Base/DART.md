@@ -1,3 +1,6 @@
+DART
+====
+
 [DART](https://aptrust.github.io/dart-docs/) is the Digital Archivist's Resource Tool. It provides both a GUI and a command-line interface for packaging files and uploading them to remote repositories.  See [DART Documentation: Getting Started](https://aptrust.github.io/dart-docs/users/getting_started/)
 
 [DART](https://aptrust.github.io/dart-docs/) (APTrust)

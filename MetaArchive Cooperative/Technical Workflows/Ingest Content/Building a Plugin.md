@@ -1,3 +1,6 @@
+Building a Plugin
+=================
+
 
 * 1 [Creating, Testing, & Implementing a Plugin](#BuildingaPlugin-trueCreating,Testing,&ImplementingaPlugin)
 	+ 1.1 [Create the plugin, collection, and AUs](#BuildingaPlugin-Createtheplugin,collection,andAUs)

@@ -1,3 +1,6 @@
+Prepare Content for Ingest
+==========================
+
 *** 1 [Local Management of Digital Content](#PrepareContentforIngest-LocalManagementofDigitalContent)
 	+ 1.1 [Create Inventory](#PrepareContentforIngest-CreateInventory)
 		- 1.1.1 [The Importance of the Collections Inventory](#PrepareContentforIngest-TheImportanceoftheCollectionsInventory)

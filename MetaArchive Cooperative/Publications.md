@@ -1,3 +1,6 @@
+Publications
+============
+
 Dearborn, C. & Meister, S. (2017). **[Failure as process: Interrogating disaster, loss, and recovery in digital preservation](http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1187&context=lib_fsdocs)**(author submitted version).*Alexandria: The Journal of National and International Library and Information Issues,* *27*(2), 83-93. <https://doi.org/10.1177/0955749017722076.>
 
 Ballard, H. (Ed.). (2016). [**Guidance Briefs: Preserving & Curating ETD Research Data & Complex Digital Objects**](https://educopia.org/deliverables/etdplus-guidance-briefs). Atlanta: Educopia Institute.

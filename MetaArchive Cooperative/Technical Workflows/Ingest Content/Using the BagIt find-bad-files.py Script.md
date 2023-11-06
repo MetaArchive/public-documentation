@@ -1,6 +1,9 @@
 Using the BagIt find-bad-files.py Script
 ========================================
 
+Using the BagIt find-bad-files.py Script
+========================================
+
   
 From <http://wiki.metaarchive.org>
 

@@ -1,3 +1,6 @@
+HTML Manifest Page
+==================
+
 LOCKSS requires the inclusion of an **HTML Manifest Page** for each AU in the LOCKSS system.  This page records:
 
 * Information about the content of the AU

@@ -1,3 +1,6 @@
+MetaArchive Quality Assurance Strategy
+======================================
+
 1. Introduction
 ===============
 

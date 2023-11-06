@@ -1,3 +1,6 @@
+Staging Server
+==============
+
 
 * 1 [Setting up an Amazon S3 bucket as a MetaArchive staging server](#StagingServer-SettingupanAmazonS3bucketasaMetaArchivestagingserver)
 	+ 1.1 [Pre-Ingest AWS S3 Bucket Configuration](#StagingServer-Pre-IngestAWSS3BucketConfiguration)

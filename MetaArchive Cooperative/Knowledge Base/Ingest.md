@@ -1,3 +1,6 @@
+Ingest
+======
+
 **Ingest(ing) content** is done using MetaArchive's  [Conspectus](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Conspectus) tool. 
 
 * Content is packaged into [Archival Units (AUs)](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)) and put on a [staging server](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Staging-Server).

@@ -1,3 +1,6 @@
+MetaArchive QA Tools
+====================
+
 
 * 1 [find-bad-files](#MetaArchiveQATools-find-bad-files)
 	+ 1.1 [Find Bad Files Script Usage](#MetaArchiveQATools-FindBadFilesScriptUsage)

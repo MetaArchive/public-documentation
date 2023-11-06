@@ -1,3 +1,6 @@
+Bagger
+======
+
 [Bagger](https://github.com/LibraryOfCongress/bagger) is a software program maintained by the Library of Congress which serves as an integral piece of the ingestion of collection data into the MetaArchive preservation network. This program makes data packages called “Bags” of collection data. 
 
 * Bagger creates packages of associated digital content that interacts well with the MetaArchive preservation infrastructure. The program also runs some basic data integrity functions such as generating checksums for digital files.

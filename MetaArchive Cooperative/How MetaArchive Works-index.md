@@ -1,3 +1,6 @@
+How MetaArchive Works
+=====================
+
 
 * 1 [MetaArchive In a Nut Shell](#HowMetaArchiveWorks-trueMetaArchiveInaNutShell)
 	+ 1.1 [The Steps of Preservation with MetaArchive](#HowMetaArchiveWorks-TheStepsofPreservationwithMetaArchive)

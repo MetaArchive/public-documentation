@@ -1,3 +1,6 @@
+Manifest
+========
+
 
 * 1 [Manifest Page](#Manifest-ManifestPage)
 * 2 [Manifest File](#Manifest-ManifestFile)

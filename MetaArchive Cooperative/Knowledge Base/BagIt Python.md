@@ -1,3 +1,6 @@
+BagIt Python
+============
+
 BagIt is a Python library and command line utility for working with BagIt file packages.
 
 For more details, see instructions: <https://github.com/LibraryOfCongress/bagit-python#bagit-python>. 

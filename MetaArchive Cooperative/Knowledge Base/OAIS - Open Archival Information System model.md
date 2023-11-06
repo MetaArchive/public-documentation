@@ -1,3 +1,6 @@
+OAIS - Open Archival Information System model
+=============================================
+
 MetaArchive's use of  [LOCKSS](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS) can help member institutions enact [**The Reference Model for an Open Archival Information System (OAIS)**](http://www.oais.info/).
 
 **MetaArchive and Submission Information Package (SIP)**

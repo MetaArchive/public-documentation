@@ -1,3 +1,6 @@
+About MetaArchive Documentation
+===============================
+
 *** 1 [Summary:](#AboutMetaArchiveDocumentation-trueSummary:)
 * 2 [Where to find the documentation you need:](#AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed:)
 * 3 [Using and editing this wiki:](#AboutMetaArchiveDocumentation-Usingandeditingthiswiki:)**Summary:

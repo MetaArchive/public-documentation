@@ -1,3 +1,6 @@
+Plugin
+======
+
 In LOCKSS jargon, a **Plugin** is an XML structured file that conforms to the organization of content into [Archival Unit](https://confluence.educopia.org/display/MET/AUs+-+Archival+Units)s on a web server.  It instructs the LOCKSS software how to crawl, in terms of defining a starting [URL](http://en.wikipedia.org/wiki/URL), where to look for [Manifest Pages](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/HTML-Manifest-Page), and how to decide which URLs to ingest/copy from the content providing web site.
 
 **Plugin Identifier** JAVA style identifier, eg org.lockss.ingest, that identifies a plugin uniquely in a LOCKSS network  [Term from MetaArchive Wiki]

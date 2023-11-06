@@ -1,3 +1,6 @@
+Exactly
+=======
+
 Exactly is a simple application for transferring born-digital material from a sender to a recipient using the BagIt File Packaging Format. Exactly was developed in collaboration by the Gates Archive, AVP, and the Louie B. Nunn Center for Oral History at the University of Kentucky Libraries. Information about Exactly and its release is available at: <https://blog.weareavp.com/exactly-a-new-tool-for-digital-file-acquisitions>.
 
 Getting Started

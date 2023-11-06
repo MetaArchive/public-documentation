@@ -1,3 +1,6 @@
+Metadata
+========
+
 #### Best Practices for Collection Metadata
 
   

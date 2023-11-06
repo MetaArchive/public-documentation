@@ -1,3 +1,6 @@
+Knowledge Base
+==============
+
 Context, Best Practices, Examples, etc.
 =======================================
 

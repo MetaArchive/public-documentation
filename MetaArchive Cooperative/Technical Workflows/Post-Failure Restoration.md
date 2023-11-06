@@ -1,3 +1,6 @@
+Post-Failure Restoration
+========================
+
 
 * 1 [Backup Overview](#PostFailureRestoration-trueBackupOverview)
 	+ 1.1 [Option 1 (MA Managed): Backup Cache Config to the /var/log/lockss/backup-file directory, and copy to the Admin server](#PostFailureRestoration-Option1(MAManaged):BackupCacheConfigtothe/var/log/lockss/backup-filedirectory,andcopytotheAdminserver)

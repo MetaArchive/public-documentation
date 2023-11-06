@@ -1,3 +1,6 @@
+LOCKSS Cache
+============
+
 
 * 1 [Installing](#LOCKSSCache-trueInstalling)
 	+ 1.1 [VM vs physical hardware](#LOCKSSCache-VMvsphysicalhardware)
