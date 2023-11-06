@@ -41,7 +41,7 @@
           {% assign suffix = item.name | slice: -9, 6 %}
           {% capture item_anchor %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endcapture %}
 
-          {% if is_in_dir and item.dir == '/MetaArchive Cooperative/' %}
+          {% if is_in_dir and item.dir == '/public-documentation/MetaArchive Cooperative/' %}
             {% assign is_in_dir = false %}
             </ul></li>
           {% endif %}
@@ -49,8 +49,8 @@
           {% if suffix == '-index' %}
             {% assign is_in_dir = true %}
             <li><b>{{ item_anchor }}</b><ul>
-          {% elsif item.name != '/' %}
-            <li>{{ item_anchor }}<br>{{ item.name }}</li>
+          {% elsif item.path != '/index.md' %}
+            <li>{{ item_anchor }}<br>{{ item.path }}<br>{{ item.dir }}</li>
           {% endif %}
         {% endfor %}
         </ul>
