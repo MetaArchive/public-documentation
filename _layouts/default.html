@@ -35,7 +35,7 @@
         <!--Page Tree block added by Alfred Lee-->
         <div class="sidebar">
         <h2><a href="{{ "/" | relative_url }}">MetaArchive Cooperative</a></h2>
-        <ul>
+        <ul style="margin-bottom:0px">
         {% assign is_in_dir = false %}
         {% for item in site.html_pages | sort: 'url' %}
           {% assign suffix = item.name | slice: -9, 6 %}
