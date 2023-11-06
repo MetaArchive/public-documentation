@@ -36,33 +36,22 @@
         <div class="sidebar">
         <h2><a href="{{ "/" | relative_url }}">MetaArchive Cooperative</a></h2>
         <ul>
-        {% for item in site.html_pages | sort: 'id' %}
-          {% assign suffix = item.name | slice: -9, 6 %}
-          {{% capture item_anchor %}}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{{% endcapture %}}
-          {% if item.name == '/' %}
-          {% elsif suffix == '-index' %}
-            </ul>
-            <h3>{{ item_anchor }}</h3>
-            <ul>
-          {% else %}
-            <li>{{ item_anchor }}</li>
-          {% endif %}
-            </ul>
-        {% endfor %}
-        </div>
-
-        <div class="testbar">
-        <ul>
+        {% assign is_in_dir = false %}
         {% for item in site.html_pages | sort: 'url' %}
           {% assign suffix = item.name | slice: -9, 6 %}
           {% capture item_anchor %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% endcapture %}
-          <li>{{ item.name }}<ul>
-            <li>{{ suffix }}</li>
+
+          {% if item.dir == '/MetaArchive Cooperative/' and is_in_dir %}
+            {% assign is_in_dir = false %}
+            </ul></li>
+          {% endif %}
+
+          {% if suffix == '-index' %}
+            {% assign is_in_dir = true %}
+						<li><b>{{ item_anchor }}</b><ul>
+          {% elsif item.name != '/' %}
             <li>{{ item_anchor }}</li>
-            <li>{{ item.title }}</li>
-            <li>{{ item.id }}</li>
-            <li>{{ item.url }}</li>
-          </ul></li>
+          {% endif %}
         {% endfor %}
         </ul>
         </div>
