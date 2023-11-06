@@ -35,19 +35,19 @@
         <!--Page Tree block added by Alfred Lee-->
         <div class="sidebar">
         {% for item in site.html_pages | sort: 'id' %}
-          {% assign prefix = item.name | slice: 0, 3 %}
+          {% assign prefix = item.name | slice: 1, 3 %}
           {{% capture item_anchor %}}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{{% endcapture %}}
-          {% if item.name == 'index.html' %}
-				<h2>{{ item_anchor }}</h2>
-				<ul>
+          {% if item.name == '/index.html' %}
+            <h2>{{ item_anchor }}</h2>
+            <ul>
           {% elsif prefix == '00_' %}
-				</ul>
-				<h3>{{ item_anchor }}</h3>
-				<ul>
+            </ul>
+            <h3>{{ item_anchor }}</h3>
+            <ul>
           {% else %}
-        <li>{{ item_anchor }}</li>
+            <li>{{ item_anchor }}</li>
           {% endif %}
-				</ul>
+            </ul>
         {% endfor %}
         </ div>
 
