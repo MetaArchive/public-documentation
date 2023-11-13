@@ -34,7 +34,7 @@ Click the image below to see an explanation of what's in a LOCKSS backup.  Note
 Option 1 (MA Managed): Backup Cache Config to the /var/log/lockss/backup-file directory, and copy to the Admin server
 ---------------------------------------------------------------------------------------------------------------------
 
-By default, all MetaArchive caches are now set up to create a Backup to the local LOCKSS box using the [LOCKSS Administration GUI](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS) under **Expert Config:**
+By default, all MetaArchive caches are now set up to create a Backup to the local LOCKSS box using the [LOCKSS Administration GUI](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS) under **Expert Config:**
 
 
 > 
@@ -53,7 +53,7 @@ By default, all MetaArchive caches are now set up to create a Backup to the loca
 Option 2 (Manual): Backup Cache Config to a file on your workstation
 --------------------------------------------------------------------
 
-To create a Backup using the [LOCKSS Administration GUI](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS), go to **Journal Configuration** > **Backup** and click on **Retrieve** to generate and automatically download a backup cache config .zip file.
+To create a Backup using the [LOCKSS Administration GUI](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS), go to **Journal Configuration** > **Backup** and click on **Retrieve** to generate and automatically download a backup cache config .zip file.
 
 ![metaarchive.auctr.edu_ Journal Configuration — Backup.png](attachments/metaarchive.auctr.edu_ Journal Configuration — Backup.png)
 
@@ -67,7 +67,7 @@ Restore Overview
 Restore LOCKSS Instance from the LOCKSS backup file on your workstation
 -----------------------------------------------------------------------
 
-To Restore from a local LOCKSS backup file using the [LOCKSS Administration GUI](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS), go to **Journal Configuration** > **Restore** and click on **Browse** to select your backup file, then click on **Restore**.
+To Restore from a local LOCKSS backup file using the [LOCKSS Administration GUI](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS), go to **Journal Configuration** > **Restore** and click on **Browse** to select your backup file, then click on **Restore**.
 
 ![metaarchive.auctr.edu_ Journal Configuration Restore.png](attachments/metaarchive.auctr.edu_ Journal Configuration Restore.png)
 

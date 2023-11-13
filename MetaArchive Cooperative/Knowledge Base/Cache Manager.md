@@ -10,7 +10,7 @@ Background
 
 * Cache Manager is a Ruby application built by Monika Mevenkamp at Emory University/Educopia.
 * The software lives in a private GitHub repository
-* Some of the tool's functionality overlaps with [Conspectus](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Conspectus)
+* Some of the tool's functionality overlaps with [Conspectus](/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus)
 
 Status
 ------

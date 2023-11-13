@@ -71,7 +71,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    </td>
    <td>
     <span>
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Conspectus">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus">
       Conspectus
      </a>
      <br/>
@@ -139,7 +139,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    </td>
    <td>
     <span>
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Cache-Manager">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Cache Manager">
       Cache Manager
      </a>
      <br/>
@@ -210,7 +210,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    <td>
     <p>
      <span>
-      <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/PLN-Dashboard">
+      <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/PLN Dashboard">
        PLN Dashboard
       </a>
       <br/>
@@ -256,7 +256,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    <td>
     <p>
      <span>
-      <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Nagios">
+      <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Nagios">
        Nagios
       </a>
       <br/>

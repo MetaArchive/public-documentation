@@ -17,7 +17,7 @@ Content Export Instructions
 Overview
 ========
 
-The following instructions are for MetaArchive Members who are conducting content checks as part of a [quality assurance strategy](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/MetaArchive-Quality-Assurance-Strategy) or who have experienced local loss of collections that are being preserved in the MetaArchive preservation network. Following these instructions and working with the MetaArchive Central Staff it will be possible to recover a preserved copy of collection content to replace all locally lost copies. It is recommended that Members read these instructions from top to bottom before proceeding with the first steps.
+The following instructions are for MetaArchive Members who are conducting content checks as part of a [quality assurance strategy](/public-documentation/MetaArchive Cooperative/Technical Workflows/MetaArchive Quality Assurance Strategy) or who have experienced local loss of collections that are being preserved in the MetaArchive preservation network. Following these instructions and working with the MetaArchive Central Staff it will be possible to recover a preserved copy of collection content to replace all locally lost copies. It is recommended that Members read these instructions from top to bottom before proceeding with the first steps.
 
 Content Export Instructions
 ---------------------------

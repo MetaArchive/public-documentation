@@ -84,35 +84,35 @@ Please add/update your institution's entry below with information about each too
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bagger">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Bagger">
       Bagger
      </a>
     </strong>
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/BagIt-Python">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/BagIt Python">
       BagIt Python
      </a>
     </strong>
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/BagIt-PHP">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/BagIt PHP">
       BagIt PHP
      </a>
     </strong>
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/DART">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/DART">
       DART
      </a>
     </strong>
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Exactly">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Exactly">
       Exactly
      </a>
     </strong>
@@ -136,14 +136,14 @@ Please add/update your institution's entry below with information about each too
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <strong>
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bag-Split-Utility">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Bag Split Utility">
       Bag Split Utility
      </a>
     </strong>
    </th>
    <th data-highlight-colour="grey" title="Background color : ">
     <span title="">
-     <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Checksum">
+     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Checksum">
       Checksum
      </a>
     </span>
@@ -171,7 +171,7 @@ Please add/update your institution's entry below with information about each too
    <td colspan="5" data-highlight-colour="#f4f5f7" style="text-align: center;" title="Background color : Light grey 100%">
     <p title="">
      <strong>
-      <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/File-archivers-and-zipping">
+      <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/File archivers and zipping">
        File archivers and zipping
       </a>
       tools
@@ -181,7 +181,7 @@ Please add/update your institution's entry below with information about each too
    <td colspan="6" data-highlight-colour="#f4f5f7" scope="colgroup" style="text-align: center;" title="Background color : Light grey 100%">
     <p title="">
      <strong>
-      <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)">
+      <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)">
        Archival Unit
       </a>
       packaging tools
@@ -191,7 +191,7 @@ Please add/update your institution's entry below with information about each too
    <td colspan="3" data-highlight-colour="#f4f5f7" scope="colgroup" style="text-align: center;" title="Background color : Light grey 100%">
     <strong>
      <span title="">
-      <a href="/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Staging-Server">
+      <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Staging Server">
        Staging
       </a>
       tools

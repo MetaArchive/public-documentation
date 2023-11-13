@@ -22,10 +22,10 @@ The manifest is machine-readable for automated data ingest. The receiving comput
 
 **Bagging** is the act of creating a bag, and several tools are available to automate the process.  MetaArchive does not mandate a particular tool for bagging content, but member institutions have used:
 
-* [Bagger](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bagger)
-* [BagIt Python](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/BagIt-Python)
-* [DART](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/DART)
-* [Exactly](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Exactly)
+* [Bagger](/public-documentation/MetaArchive Cooperative/Knowledge Base/Bagger)
+* [BagIt Python](/public-documentation/MetaArchive Cooperative/Knowledge Base/BagIt Python)
+* [DART](/public-documentation/MetaArchive Cooperative/Knowledge Base/DART)
+* [Exactly](/public-documentation/MetaArchive Cooperative/Knowledge Base/Exactly)
 
 This answers the AirTable Question: "[What bagging tools can be used? What are the pros and cons of each tool](https://airtable.com/shrC6B0dj791XsSAa/tblEkzKRxJh7Cea7g/viwciniHrChrmIqDs/recBUQp5T4LXrUqXa)?"  
 

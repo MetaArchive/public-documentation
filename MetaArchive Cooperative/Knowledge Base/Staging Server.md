@@ -12,7 +12,7 @@ Staging Server
 			* 1.1.2.2 [Bucket Policy](#StagingServer-BucketPolicy)
 
 
-A **staging server** is a location where [archival units](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)) are placed to await ingest into the MetaArchive LOCKSS network.  A plugin is used to "show" the LOCKSS network where the incoming AUs are located.
+A **staging server** is a location where [archival units](/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)) are placed to await ingest into the MetaArchive LOCKSS network.  A plugin is used to "show" the LOCKSS network where the incoming AUs are located.
 
 **Staging Server/Web Server/Harvest Server** - A server that is open to the public or controlled access for the MA network to be used for crawling the content.  MetaArchive members add content to a staging server where it is harvested first for testing, and, once a test crawl is successful, the content is harvested from the staging server into 5 of the MetaArchive network’s LOCKSS servers.
 

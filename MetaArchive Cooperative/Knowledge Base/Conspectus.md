@@ -21,7 +21,7 @@ Conspectus
 
 The Conspectus is the MetaArchive's collection management tool.  The Conspectus tool is accessible at **[http://conspectus.metaarchive.org](http://conspectus.metaarchive.org/)**.
 
-* It maintains the metadata and preservation status information of preserved (or to be preserved) collections that are relevant to the library (or any partner institution), as well as LOCKSS-specific metadata (managing the [LOCKSS Title database "titledb"](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/titledb---Title-Database)).
+* It maintains the metadata and preservation status information of preserved (or to be preserved) collections that are relevant to the library (or any partner institution), as well as LOCKSS-specific metadata (managing the [LOCKSS Title database "titledb"](/public-documentation/MetaArchive Cooperative/Knowledge Base/titledb - Title Database)).
 * The Conspectus offers a Graphical User Interface so Members can create, update, and maintain their collections and their collection descriptions.
 * The Conspectus generates LOCKSS-specific configuration data which is used by system scripts to configure the MetaArchive LOCKSS production and test networks.
 
@@ -108,7 +108,7 @@ The status of an Archival Unit (AU) indicates whether it is ready to be tested o
 
 #### Preserved
 
-* *What this means:* The AU is ready to be preserved in the MetaArchive production network, ***or*** it is already preserved in the MetaArchive production network. In Conspectus, viewing the [preservation status records (PSRs)](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/PSR---Preservation-Status-Record) will show how many copies are in the network, indicating whether it was recently set to "Preserved" or whether it has already replicated across the network and is fully preserved. This is generally the final state of an AU. 'Preserved' AUs cannot be deleted, and once an AU status has been changed to 'Preserved' it can never be deleted in Conspectus.
+* *What this means:* The AU is ready to be preserved in the MetaArchive production network, ***or*** it is already preserved in the MetaArchive production network. In Conspectus, viewing the [preservation status records (PSRs)](/public-documentation/MetaArchive Cooperative/Knowledge Base/PSR - Preservation Status Record) will show how many copies are in the network, indicating whether it was recently set to "Preserved" or whether it has already replicated across the network and is fully preserved. This is generally the final state of an AU. 'Preserved' AUs cannot be deleted, and once an AU status has been changed to 'Preserved' it can never be deleted in Conspectus.
 * *Permitted status changes by user group:* 
 	+ Editor: None.
 	+ Superuser: 'Preserved' to 'Retired.' 'Preserved' to 'Retest.'

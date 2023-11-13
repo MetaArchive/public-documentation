@@ -34,9 +34,9 @@ Ingest Content
 Create Archival Units (AUs)
 ===========================
 
-Divide a large collection, if necessary, into groupings called [Archival Units](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)) (typically between 1GB-300GB).  Archival Unit groupings may correspond to publication years, to file formats, to topic strings, etc. 
+Divide a large collection, if necessary, into groupings called [Archival Units](/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)) (typically between 1GB-300GB).  Archival Unit groupings may correspond to publication years, to file formats, to topic strings, etc. 
 
-If you haven't already, [prep your content for ingest](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/Prepare-Content-for-Ingest):
+If you haven't already, [prep your content for ingest](/public-documentation/MetaArchive Cooperative/Technical Workflows/Prepare Content for Ingest):
 
 1. Make sure to not only include content, but also metadata (preferably in an open licensed machine-readable format like XML or CSV).
 2. Make sure data and metadata are organized such that you can use or build tools to restore the collection later.
@@ -44,10 +44,10 @@ If you haven't already, [prep your content for ingest](/public-documentation/Met
 
 Once your content is prepped, follow the optional and required steps described below to create AUs:
 
-1. Optionally, check for junk system files using the [find-bad-files.py](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/Ingest-Content/Using-the-BagIt-find-bad-files.py-Script) script.
-2. Optionally, use a file archiver to [zip/tar](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Serialization) the file.
+1. Optionally, check for junk system files using the [find-bad-files.py](/public-documentation/MetaArchive Cooperative/Technical Workflows/Ingest Content/Using the BagIt find-bad-files.py Script) script.
+2. Optionally, use a file archiver to [zip/tar](/public-documentation/MetaArchive Cooperative/Knowledge Base/Serialization) the file.
 3. Optionally, use lossless compression to reduce the storage footprint of the AU.
-4. Optionally, bag content – MetaArchive supports [BagIt](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bags-and-Bagging)-based ingests.
+4. Optionally, bag content – MetaArchive supports [BagIt](/public-documentation/MetaArchive Cooperative/Knowledge Base/Bags and Bagging)-based ingests.
 5. Make sure to create an HTML Manifest Page, which LOCKSS uses to record permission for crawling/harvesting.
 
 For ingests over 1TB (terabyte), please contact the Community Facilitator a few months in advance to give time to plan for network load balancing.
@@ -63,18 +63,18 @@ Operating systems like Windows and and MacOS often include invisible system file
 
 Additionally, web-based files with non-alphanumeric characters need to limit those characters to just dots, hyphens, and underscores: . - \_
 
-Follow the steps at [Using the BagIt find-bad-files.py Script](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/Ingest-Content/Using-the-BagIt-find-bad-files.py-Script) to ensure that any junk files are removed and that filenames are correctly formatted.
+Follow the steps at [Using the BagIt find-bad-files.py Script](/public-documentation/MetaArchive Cooperative/Technical Workflows/Ingest Content/Using the BagIt find-bad-files.py Script) to ensure that any junk files are removed and that filenames are correctly formatted.
 
 This step is optional since the extra files won't cause problems for LOCKSS or the AUs, so some institutions may choose to skip this step to save time/effort.
 
 Serialization (zip / tar) (optional)
 ------------------------------------
 
-Zipping or tarring a group of files using a [file archiver](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/File-archivers-and-zipping) makes recovery/movement a little easier technically, if there aren't thousands of files. But it's not the best thing for every scenario:
+Zipping or tarring a group of files using a [file archiver](/public-documentation/MetaArchive Cooperative/Knowledge Base/File archivers and zipping) makes recovery/movement a little easier technically, if there aren't thousands of files. But it's not the best thing for every scenario:
 
-* If you're using temporary [staging](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Staging-Server), it might make sense to zip/tar your archival units.
+* If you're using temporary [staging](/public-documentation/MetaArchive Cooperative/Knowledge Base/Staging Server), it might make sense to zip/tar your archival units.
 * However, if you're using permanent staging (e.g. a publicly crawlable site of journals), it doesn't make as much sense to zip/tar.
-* If you are using AWS for staging, AUs need to be [serialized](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Serialization). (Source: AirTable Question "[Should bags be zipped?](https://airtable.com/shrC6B0dj791XsSAa/tblEkzKRxJh7Cea7g/viwciniHrChrmIqDs/recty6nC3zoifktUF)")
+* If you are using AWS for staging, AUs need to be [serialized](/public-documentation/MetaArchive Cooperative/Knowledge Base/Serialization). (Source: AirTable Question "[Should bags be zipped?](https://airtable.com/shrC6B0dj791XsSAa/tblEkzKRxJh7Cea7g/viwciniHrChrmIqDs/recty6nC3zoifktUF)")
 
 This step is optional since LOCKSS can handle both regular (non-serialized) and zipped/tarred (serialized) files, so institutions may choose to skip this step depending on their workflows/needs.
 
@@ -91,24 +91,24 @@ This step is optional since LOCKSS can handle both compressed and uncompressed z
 Bagging (optional)
 ------------------
 
-**[Bagging](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bags-and-Bagging)** refers to using the [BagIt Specification](https://www.ietf.org/rfc/rfc8493.txt) from the Library of Congress to package up content into a standardized format that includes generating checksums for files and recording contact information for the included content (see: [BagIt at Wikipedia](https://en.wikipedia.org/wiki/BagIt)).  These standardized files, called **bags**, can be used to create AUs.
+**[Bagging](/public-documentation/MetaArchive Cooperative/Knowledge Base/Bags and Bagging)** refers to using the [BagIt Specification](https://www.ietf.org/rfc/rfc8493.txt) from the Library of Congress to package up content into a standardized format that includes generating checksums for files and recording contact information for the included content (see: [BagIt at Wikipedia](https://en.wikipedia.org/wiki/BagIt)).  These standardized files, called **bags**, can be used to create AUs.
 
 There are many tools available to create bags, including several that MetaArchive members have used:
 
-* [Bagger](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Bagger)
-* [BagIt Python](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/BagIt-Python)
-* [DART](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/DART)
-* [Exactly](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Exactly)
+* [Bagger](/public-documentation/MetaArchive Cooperative/Knowledge Base/Bagger)
+* [BagIt Python](/public-documentation/MetaArchive Cooperative/Knowledge Base/BagIt Python)
+* [DART](/public-documentation/MetaArchive Cooperative/Knowledge Base/DART)
+* [Exactly](/public-documentation/MetaArchive Cooperative/Knowledge Base/Exactly)
 * [Java BagIt Library (BIL)](https://github.com/LibraryOfCongress/bagit-java)
 
 The MetaArchive has prepared a series of easy-to-follow instructions for making use of Bagger and bagit.py. Those instructions can be found beginning on page 7 of the ![MetaArchiveBagItUsageInstructions.pdf](attachments/MetaArchiveBagItUsageInstructions.pdf).
 
-Bagging creates [checksums](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Checksum) and [manifests](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Manifest), but these are **not** required for the LOCKSS software to work – LOCKSS manages fixity using the [polling and voting](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Polling-and-Voting) functionality of the software. This provides some context for the AirTable Question "[Are any member orgs ingesting non-bagged content?](https://airtable.com/shrC6B0dj791XsSAa/tblEkzKRxJh7Cea7g/viwciniHrChrmIqDs/recY3kck5pDsQlsUq)"
+Bagging creates [checksums](/public-documentation/MetaArchive Cooperative/Knowledge Base/Checksum) and [manifests](/public-documentation/MetaArchive Cooperative/Knowledge Base/Manifest), but these are **not** required for the LOCKSS software to work – LOCKSS manages fixity using the [polling and voting](/public-documentation/MetaArchive Cooperative/Knowledge Base/Polling and Voting) functionality of the software. This provides some context for the AirTable Question "[Are any member orgs ingesting non-bagged content?](https://airtable.com/shrC6B0dj791XsSAa/tblEkzKRxJh7Cea7g/viwciniHrChrmIqDs/recY3kck5pDsQlsUq)"
 
 HTML Manifest Page (required)
 -----------------------------
 
-Before ingesting the AU, you need to create an [HTML Manifest Page](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/HTML-Manifest-Page) that describes the content, contact information, and permissions for LOCKSS to crawl/harvest the data.
+Before ingesting the AU, you need to create an [HTML Manifest Page](/public-documentation/MetaArchive Cooperative/Knowledge Base/HTML Manifest Page) that describes the content, contact information, and permissions for LOCKSS to crawl/harvest the data.
 
 Stage AUs
 =========
@@ -272,7 +272,7 @@ Monitor for Replications
 
 1. **Cache Admins** reply-all or notify [techsupport@metaarchive.org](mailto:techsupport@metaarchive.org) that they have added the AUs
 2. After two weeks, **Central Staff** monitors the status of ingests and adds the AUs to caches that have not already done so
-3. **Central Staff** monitors for [AU health (content availability, polling)](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/MetaArchive-Quality-Assurance-Strategy)
+3. **Central Staff** monitors for [AU health (content availability, polling)](/public-documentation/MetaArchive Cooperative/Technical Workflows/MetaArchive Quality Assurance Strategy)
 4. **Central Staff** notifies the member that AUs have been ingested
 
 Clean Up Staged Content (Optional)

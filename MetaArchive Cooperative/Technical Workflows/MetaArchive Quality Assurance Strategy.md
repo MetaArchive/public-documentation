@@ -895,7 +895,7 @@ Primary Role(s): content manager, network administrator
 - AU File table
 * The AU Status page includes a table of all the URLs for each file in the AU. If you click on a URL, you will see a split page, the top half will include LOCKSS metadata on the file and the bottom half will attempt to render the content.
 
-+ Conspectus contains a [feature to validate BagIt bag manifests for AUs stored in LOCKSS](/public-documentation/MetaArchive-Cooperative/Technical-Workflows/Content-Management/Monitoring). This requires you to retain a copy of the bag manifest to upload and compare.
++ Conspectus contains a [feature to validate BagIt bag manifests for AUs stored in LOCKSS](/public-documentation/MetaArchive Cooperative/Technical Workflows/Content Management/Monitoring). This requires you to retain a copy of the bag manifest to upload and compare.
 
 4. Monitor and Repair
 =====================

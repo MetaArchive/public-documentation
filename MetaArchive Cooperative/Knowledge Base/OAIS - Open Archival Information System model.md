@@ -1,15 +1,15 @@
 OAIS - Open Archival Information System model
 =============================================
 
-MetaArchive's use of  [LOCKSS](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS) can help member institutions enact [**The Reference Model for an Open Archival Information System (OAIS)**](http://www.oais.info/).
+MetaArchive's use of  [LOCKSS](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS) can help member institutions enact [**The Reference Model for an Open Archival Information System (OAIS)**](http://www.oais.info/).
 
 **MetaArchive and Submission Information Package (SIP)**
 
-A MetaArchive Submission Information Package (SIP) consists of an HTML Manifest Page; an XML structured file known as a  [Plugin](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Plugin) that conforms to the organization of content into [Archival Units](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)) on a web server; the individual content objects within each Archival Unit, and metadata supplied through the  [Conspectus](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Conspectus) database.
+A MetaArchive Submission Information Package (SIP) consists of an HTML Manifest Page; an XML structured file known as a  [Plugin](/public-documentation/MetaArchive Cooperative/Knowledge Base/Plugin) that conforms to the organization of content into [Archival Units](/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)) on a web server; the individual content objects within each Archival Unit, and metadata supplied through the  [Conspectus](/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus) database.
 
-The Plugin and its parameters are given a unique name and are stored in a versioning repository. The name of the Plugin is then entered into the Conspectus database along with the base\_URL of the collection that has been prepared for harvest. The base\_URL, the Plugin name, and the collection’s Archival Unit parameters form a unique set of [Archival Unit IDs (AUIDs)](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/AUID---Archival-Unit-ID).
+The Plugin and its parameters are given a unique name and are stored in a versioning repository. The name of the Plugin is then entered into the Conspectus database along with the base\_URL of the collection that has been prepared for harvest. The base\_URL, the Plugin name, and the collection’s Archival Unit parameters form a unique set of [Archival Unit IDs (AUIDs)](/public-documentation/MetaArchive Cooperative/Knowledge Base/AUID - Archival Unit ID).
 
-These AUIDs are identified at the collection level in a separate XML file that constitutes a LOCKSS-specific [Title Database](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/titledb---Title-Database). The Title Database entry for a collection is finalized upon completion of the collection’s Conspectus database entry, which also serves to tie the Description Information directly to the collection for which it was created.
+These AUIDs are identified at the collection level in a separate XML file that constitutes a LOCKSS-specific [Title Database](/public-documentation/MetaArchive Cooperative/Knowledge Base/titledb - Title Database). The Title Database entry for a collection is finalized upon completion of the collection’s Conspectus database entry, which also serves to tie the Description Information directly to the collection for which it was created.
 
 The base\_URL and the Plugin are then made available via the Title Database so that a designated MetaArchive-LOCKSS cache can retrieve the Plugin XML, point a browser at the collection on the web server, and make use of the parameters to crawl and harvest all of the content.
 

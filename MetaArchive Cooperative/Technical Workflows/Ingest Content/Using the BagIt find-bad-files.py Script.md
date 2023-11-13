@@ -1,5 +1,5 @@
-Ingest Content — Using the BagIt find-bad-files.py Script
-=========================================================
+Using the BagIt find-bad-files.py Script
+========================================
 
 Using the BagIt find-bad-files.py Script
 ========================================

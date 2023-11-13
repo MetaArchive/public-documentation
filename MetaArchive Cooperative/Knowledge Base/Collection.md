@@ -5,7 +5,7 @@ Collection
 
 The scope and boundaries of collections are determined by the member. Typically, collections correspond to either an archival collection, bibliographic collection, or artificial collections around a particular subject.
 
-LOCKSS 1.x does not include the concept of collections in its data model. In LOCKSS 1.x, all [archival units](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Archival-Units-(AUs)) ([object](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Object)) are organized by the plugin used to ingest them into the network. Plugins may or may not align with a collection.
+LOCKSS 1.x does not include the concept of collections in its data model. In LOCKSS 1.x, all [archival units](/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)) ([object](/public-documentation/MetaArchive Cooperative/Knowledge Base/Object)) are organized by the plugin used to ingest them into the network. Plugins may or may not align with a collection.
 
 LOCKSS 1.x data model:
 

@@ -14,7 +14,7 @@ How MetaArchive Works
 MetaArchive In a Nut Shell
 ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-MetaArchive uses the free open source  [LOCKSS](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/LOCKSS) archiving software to operate a network of preservation servers. Due to the low cost participation it is affordable for libraries of all sizes. LOCKSS is an ACM award winning digital preservation technology which preserves all formats and genres of web-published content from full fledged web sites to simple web hosted directories.
+MetaArchive uses the free open source  [LOCKSS](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS) archiving software to operate a network of preservation servers. Due to the low cost participation it is affordable for libraries of all sizes. LOCKSS is an ACM award winning digital preservation technology which preserves all formats and genres of web-published content from full fledged web sites to simple web hosted directories.
 
 Content is stored in and restored to its original format. Participating institutions identify valuable digital assets that they wish to preserve safely. They make the corresponding digital content accessible to MetaArchive network servers, so-called LOCKSS caches, which are configured to copy content, update it to its latest versions on a regular basis, and ensure its integrity over time.
 
@@ -75,7 +75,7 @@ Ingest of the new content becomes possible once MetaArchive servers have noticed
 2. A **Tech Person** at each assigned location adds the identified content to his/her caches configuration; and
 3. The **LOCKSS software** starts to take care of the new content along with other preserved content.
 
-Member creates entry in the MetaArchive [Conspectus](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/Conspectus), describing the collection(s) it is submitting for ingest.
+Member creates entry in the MetaArchive [Conspectus](/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus), describing the collection(s) it is submitting for ingest.
 
 ![Ingest.png](attachments/Ingest.png)
 

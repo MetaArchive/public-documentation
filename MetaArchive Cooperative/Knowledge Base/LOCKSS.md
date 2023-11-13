@@ -9,7 +9,7 @@ LOCKSS** ("Lots of Copies Keep Stuff Safe") is an open source software program t
 * Core support for the LOCKSS software is provided by Stanford University Libraries (see <https://www.lockss.org/>).
 * See the LOCKSS documentation portal at <https://lockss.github.io/>.
 * See the LOCKSS Community Wiki at <https://github.com/lockss/community/wiki>
-* See the Cross-[PLN](/public-documentation/MetaArchive-Cooperative/Knowledge-Base/PLN---Private-LOCKSS-Network) Technical Working Group shared code repository at: <https://github.com/Cross-PLN-Technical-Working-Group>
+* See the Cross-[PLN](/public-documentation/MetaArchive Cooperative/Knowledge Base/PLN - Private LOCKSS Network) Technical Working Group shared code repository at: <https://github.com/Cross-PLN-Technical-Working-Group>
 
 A **LOCKSS network** is a network of LOCKSS caches that are maintained with a common title database  
 
