@@ -1,18 +1,18 @@
 How MetaArchive Works
 =====================
 
+**Table of Contents**
+* 1 [MetaArchive In a Nut Shell](#MetaArchiveInaNutShell)
+	+ 1.1 [The Steps of Preservation with MetaArchive](#TheStepsofPreservationwithMetaArchive)
+		- 1.1.1 [Phase 1: Preparing Content](#Phase1:PreparingContent)
+		- 1.1.2 [Phase 2: Configuring the MetaArchive Network to Ingest Content](#Phase2:ConfiguringtheMetaArchiveNetworktoIngestContent)
+		- 1.1.3 [Phase 3: Ingesting Content](#Phase3:IngestingContent)
+		- 1.1.4 [Phase 4: Preserving Content](#Phase4:PreservingContent)
+		- 1.1.5 [Phase 5: Restoration of Content](#Phase5:RestorationofContent)
 
-* 1 [MetaArchive In a Nut Shell](#HowMetaArchiveWorks-trueMetaArchiveInaNutShell)
-	+ 1.1 [The Steps of Preservation with MetaArchive](#HowMetaArchiveWorks-TheStepsofPreservationwithMetaArchive)
-		- 1.1.1 [Phase 1: Preparing Content](#HowMetaArchiveWorks-Phase1:PreparingContent)
-		- 1.1.2 [Phase 2: Configuring the MetaArchive Network to Ingest Content](#HowMetaArchiveWorks-Phase2:ConfiguringtheMetaArchiveNetworktoIngestContent)
-		- 1.1.3 [Phase 3: Ingesting Content](#HowMetaArchiveWorks-Phase3:IngestingContent)
-		- 1.1.4 [Phase 4: Preserving Content](#HowMetaArchiveWorks-Phase4:PreservingContent)
-		- 1.1.5 [Phase 5: Restoration of Content](#HowMetaArchiveWorks-Phase5:RestorationofContent)
+<a id="MetaArchiveInaNutShell"></a>
 
-
-MetaArchive In a Nut Shell
-======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+# MetaArchive In a Nut Shell
 
 MetaArchive uses the free open source  [LOCKSS](/public-documentation/MetaArchive Cooperative/Knowledge Base/LOCKSS) archiving software to operate a network of preservation servers. Due to the low cost participation it is affordable for libraries of all sizes. LOCKSS is an ACM award winning digital preservation technology which preserves all formats and genres of web-published content from full fledged web sites to simple web hosted directories.
 
@@ -20,8 +20,11 @@ Content is stored in and restored to its original format. Participating institut
 
 All content is stored in multiple copies on multiple caches at geographically dispersed locations. The MetaArchive network manages the number of replication so that a loss of all copies becomes extremely unlikely. If an institution loses preserved content for whatever reason its content is restored in its original form.
 
-The Steps of Preservation with MetaArchive
-------------------------------------------
+<a id="TheStepsofPreservationwithMetaArchive"></a>
+
+## The Steps of Preservation with MetaArchive
+
+<a id="Phase1:PreparingContent"></a>
 
 ### Phase 1: Preparing Content
 
@@ -53,8 +56,7 @@ Member institutions prepare content for preservation, producing packages of cont
 
 ![Prepare.png](attachments/Prepare.png)
 
-  
-
+<a id="Phase2:ConfiguringtheMetaArchiveNetworktoIngestContent"></a>
 
 ### Phase 2: Configuring the MetaArchive Network to Ingest Content
 
@@ -63,6 +65,8 @@ Phase 2 starts once the **Content Owner** and the **Tech Person** agree that
 1. The **Tech Person** publicizes the crawl procedure in the MetaArchive code repository;
 2. The **Tech Person** and/or **Content Owner** enters configuration parameters for the content that is now available for preservation in the MetaArchive Conspectus tool; and
 3. The **MetaArchive Central Staff** adds the configuration parameters to the MetaArchive title database
+
+<a id="Phase3:IngestingContent"></a>
 
 ### Phase 3: Ingesting Content
 
@@ -92,6 +96,8 @@ Member makes content available to network via web “staging” server.
 Five member storage nodes are assigned to ingest the new content.
 
 ![Five_Replications.png](attachments/Five_Replications.png)
+
+<a id="Phase4:PreservingContent"></a>
 
 ### Phase 4: Preserving Content
 
@@ -127,7 +133,7 @@ If a mismatch is detected between two nodes, the servers determine regarding whi
 ![How_MetaArchive_Works_08.png](attachments/How_MetaArchive_Works_08.png)
 
   
-
+<a id="Phase5:RestorationofContent"></a>
 
 ### Phase 5: Restoration of Content
 
@@ -141,7 +147,3 @@ Member alerts the network administrator via email and requests a preserved copy.
 Network administrator retrieves a copy from the network and makes it available via download to member institution.
 
 In case of a local disaster or hardware failure, members can contact the network administrator to set up a replacement server and recover the content from the MetaArchive.
-
-  
-
-
