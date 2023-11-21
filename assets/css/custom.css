@@ -1,5 +1,5 @@
 header {
-  width:300px;
+  width:300px; /* Cliff added to prevent page tree text cutoff */
   top: 0px;
   bottom: 75px;
   overflow-y:auto;
@@ -9,7 +9,7 @@ footer {
   bottom: 0px;
   height: 75px;
 }
-/* Jump to Top button */
+/* Jump to Top button from https://github.com/FabrizioMusacchio/GitHub_Flavor_Markdown_CSS */
 /* Enable smooth scrolling */
 @media screen and (prefers-reduced-motion: no-preference) {
   html {
@@ -37,7 +37,31 @@ footer {
   background-color: #F8F8F8;
 }
 
-/* GitHub style Octicon anchor links */
+/* GitHub style Octicon anchor links from https://github.com/allejo/jekyll-anchor-headings/wiki/Examples */
+
+h1 {
+  text-indent: -12px;
+}
+
+h2 {
+  text-indent: -10px;
+}
+
+h3 {
+  text-indent: -8px;
+}
+
+h4 {
+  text-indent: -6px;
+}
+
+h5 {
+  text-indent: -4px;
+}
+
+h6 {
+  text-indent: -2px;
+}
 
 h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
   visibility: hidden;
