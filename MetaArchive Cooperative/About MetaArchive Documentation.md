@@ -1,6 +1,4 @@
-<a name="top"></a>
-
-About MetaArchive Documentation
+About MetaArchive Documentation  <a name="top"></a>
 ===============================
 
 **Table of Contents**
