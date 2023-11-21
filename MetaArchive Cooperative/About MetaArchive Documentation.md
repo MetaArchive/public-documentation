@@ -6,7 +6,7 @@ About MetaArchive Documentation  <a name="top"></a>
 2. [Where to find the documentation you need](#AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed)
 3. [Using and editing this wiki](#AboutMetaArchiveDocumentation-Usingandeditingthiswiki)
 
-{{toc:1-3}}
+{{toc:2-5}}
 
 <a id="AboutMetaArchiveDocumentation-Summary"></a>
 
