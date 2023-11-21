@@ -1,4 +1,4 @@
-Prepare Content for Ingest
+1 - Prepare Content for Ingest
 ==========================
 
 *** 1 [Local Management of Digital Content](#PrepareContentforIngest-LocalManagementofDigitalContent)
