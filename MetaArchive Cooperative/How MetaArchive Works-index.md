@@ -1,5 +1,8 @@
-How MetaArchive Works  <a name="top"></a>
-=====================
+# How MetaArchive Works  <a name="top"></a>
+{:.no_toc}
+
+1. test
+{:toc}
 
 # MetaArchive In a Nut Shell
 
