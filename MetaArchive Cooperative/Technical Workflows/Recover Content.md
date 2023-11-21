@@ -1,20 +1,8 @@
-Recover Content
-===============
+# Recover Content
+{:.no_toc}
 
-
-* 1
-* 2 [Individual](#RecoverContent-Individual)
-	+ 2.1 [Access to cache](#RecoverContent-Accesstocache)
-	+ 2.2 [No access to cache (support request)](#RecoverContent-Noaccesstocache(supportrequest))
-* 3 [Bulk (support request)](#RecoverContent-Bulk(supportrequest))
-	+ 3.1 [Content Export & Restoration](#RecoverContent-ContentExport&Restoration)
-		- 3.1.1 [Identify a Valid Preservation Copy](#RecoverContent-IdentifyaValidPreservationCopy)
-		- 3.1.2 [Identify a Proper Download Destination](#RecoverContent-IdentifyaProperDownloadDestination)
-		- 3.1.3 [Exchange Connectivity Information](#RecoverContent-ExchangeConnectivityInformation)
-		- 3.1.4 [Prepare an Export Package](#RecoverContent-PrepareanExportPackage)
-		- 3.1.5 [Retrieve Export Package](#RecoverContent-RetrieveExportPackage)
-		- 3.1.6 [Clean-Up](#RecoverContent-Clean-Up)
-=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+1. ordered toc
+{:toc}
 
 Individual
 ==========

@@ -1,7 +1,7 @@
 # About MetaArchive Documentation  <a name="top"></a>
 {:.no_toc}
 
-1. test
+1. ordered toc
 {:toc}
 
 ## Summary

@@ -1,16 +1,12 @@
-Building a Plugin
-=================
+# Building a Plugin
+{:.no_toc}
+
+1. ordered toc
+{:toc}
 
 
-* 1 [Creating, Testing, & Implementing a Plugin](#BuildingaPlugin-trueCreating,Testing,&ImplementingaPlugin)
-	+ 1.1 [Create the plugin, collection, and AUs](#BuildingaPlugin-Createtheplugin,collection,andAUs)
-	+ 1.2 [Test the plugin and AUs](#BuildingaPlugin-TestthepluginandAUs)
-	+ 1.3 [Implement the plugin in the production network](#BuildingaPlugin-Implementthepluginintheproductionnetwork)
-* 2 [External Links](#BuildingaPlugin-ExternalLinks)
+# Creating, Testing, & Implementing a Plugin
 
-
-Creating, Testing, & Implementing a Plugin
-=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 1. Create the plugin, collection, and AUs
 --------------------------------------

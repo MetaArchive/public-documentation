@@ -1,5 +1,8 @@
-Technical Specifications
-========================
+# Technical Specifications
+{:.no_toc}
+
+1. ordered toc
+{:toc}
 
 Technical Specifications for MetaArchive are updated annually.  They are published on the MetaArchive website, linked from [the Documentation-Resources page](https://metaarchive.org/documentation-resources/).
 

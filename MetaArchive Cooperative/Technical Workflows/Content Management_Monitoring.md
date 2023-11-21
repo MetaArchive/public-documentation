@@ -1,22 +1,11 @@
-Content Management/Monitoring
-=============================
+# Content Management/Monitoring
+{:.no_toc}
 
-*** 1 [Understanding the LOCKSS GUI](#ContentManagement/Monitoring-UnderstandingtheLOCKSSGUI)
-* 2 [Manual fixity verification for AUs that are bagged (untested Conspectus feature?)](#ContentManagement/Monitoring-ManualfixityverificationforAUsthatarebagged(untestedConspectusfeature?))
-	+ 2.1 [Accessing SHA-1 checksum values in LOCKSS](#ContentManagement/Monitoring-AccessingSHA-1checksumvaluesinLOCKSS)
-* 3 [Serving AU / viewing files (quality control)](#ContentManagement/Monitoring-ServingAU/viewingfiles(qualitycontrol))
-* 4 [Preservation Status Records in Conspectus](#ContentManagement/Monitoring-PreservationStatusRecordsinConspectus)
-* 5 [Retiring AUs](#ContentManagement/Monitoring-RetiringAUs)
-* 6 [Deactivating AUs](#ContentManagement/Monitoring-DeactivatingAUs)
-* 7 [Deleting AUs](#ContentManagement/Monitoring-DeletingAUs)
-* 8 [Versioning in LOCKSS](#ContentManagement/Monitoring-VersioninginLOCKSS)
-* 9 [Interpreting LOCKSS errors, troubleshooting](#ContentManagement/Monitoring-InterpretingLOCKSSerrors,troubleshooting)
-	+ 9.1 [File listing](#ContentManagement/Monitoring-Filelisting)
-	+ 9.2 [Validating? (not really sure what this is, if it’s actually a fixity check or something else, need to ask LOCKSS)](#ContentManagement/Monitoring-Validating?(notreallysurewhatthisis,ifit’sactuallyafixitycheckorsomethingelse,needtoaskLOCKSS))
-	+ 9.3 [Monitoring](#ContentManagement/Monitoring-Monitoring)
+1. ordered toc
+{:toc}
 
 
-<!-- RH: Content at <https://wiki.metaarchive.org/metawiki/index.php/HowTos> was used for some of this and may be useful for the rest! -->**
+<!-- RH: Content at <https://wiki.metaarchive.org/metawiki/index.php/HowTos> was used for some of this and may be useful for the rest! -->
 
 Understanding the LOCKSS GUI
 ============================

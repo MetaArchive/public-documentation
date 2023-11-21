@@ -1,18 +1,8 @@
-Content Export Instructions
-===========================
+# Content Export Instructions
+{:.no_toc}
 
-
-* 1
-* 2 [Overview](#ContentExportInstructions-Overview)
-	+ 2.1 [Content Export Instructions](#ContentExportInstructions-ContentExportInstructions)
-		- 2.1.1 [Step 1: Identify a Valid Preservation Copy](#ContentExportInstructions-Step1:IdentifyaValidPreservationCopy)
-		- 2.1.2 [Step 2: Identify a Proper Download Destination](#ContentExportInstructions-Step2:IdentifyaProperDownloadDestination)
-		- 2.1.3 [Step 3: Exchange Connectivity Information](#ContentExportInstructions-Step3:ExchangeConnectivityInformation)
-		- 2.1.4 [Step 4: Connect to a Recovery Cache](#ContentExportInstructions-Step4:ConnecttoaRecoveryCache)
-		- 2.1.5 [Step 5: Prepare an Export Package](#ContentExportInstructions-Step5:PrepareanExportPackage)
-		- 2.1.6 [Step 6: Retrieve Export Package](#ContentExportInstructions-Step6:RetrieveExportPackage)
-		- 2.1.7 [Step 7: Clean-Up](#ContentExportInstructions-Step7:Clean-Up)
-================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+1. ordered toc
+{:toc}
 
 Overview
 ========

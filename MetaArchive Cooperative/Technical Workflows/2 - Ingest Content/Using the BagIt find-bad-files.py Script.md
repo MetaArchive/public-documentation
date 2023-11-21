@@ -1,90 +1,8 @@
-Using the BagIt find-bad-files.py Script
-========================================
+# Using the BagIt find-bad-files.py Script
+{:.no_toc}
 
-Using the BagIt find-bad-files.py Script
-========================================
-
-  
-From <http://wiki.metaarchive.org>
-
-
-
-<table class="confluenceTable">
- <tbody>
-  <tr>
-   <td>
-    <h2 id="UsingtheBagItfindbadfiles.pyScript-Contents">
-     Contents
-    </h2>
-    <ul>
-     <li>
-      <a href="https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&amp;printable=yes#Overview" rel="nofollow" style="text-decoration: underline;">
-       <span>
-        1
-       </span>
-       <span>
-       </span>
-       <span>
-        Overview
-       </span>
-      </a>
-     </li>
-     <li>
-      <a href="https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&amp;printable=yes#Find_Bad_Files_Script_Usage" rel="nofollow" style="text-decoration: underline;">
-       <span>
-        2
-       </span>
-       <span>
-       </span>
-       <span>
-        Find Bad Files Script Usage
-       </span>
-      </a>
-      <ul>
-       <li>
-        <a href="https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&amp;printable=yes#Overview_2" rel="nofollow" style="text-decoration: underline;">
-         <span>
-          2.1
-         </span>
-         <span>
-         </span>
-         <span>
-          Overview
-         </span>
-        </a>
-       </li>
-       <li>
-        <a href="https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&amp;printable=yes#Usage" rel="nofollow" style="text-decoration: underline;">
-         <span>
-          2.2
-         </span>
-         <span>
-         </span>
-         <span>
-          Usage
-         </span>
-        </a>
-       </li>
-       <li>
-        <a href="https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&amp;printable=yes#Rules_enforced" rel="nofollow" style="text-decoration: underline;">
-         <span>
-          2.3
-         </span>
-         <span>
-         </span>
-         <span>
-          Rules enforced
-         </span>
-        </a>
-       </li>
-      </ul>
-     </li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
-</table>
-
+1. ordered toc
+{:toc}
 
 Overview
 ========
@@ -123,4 +41,4 @@ If -v or --verbose is provided, the reasons for the results being matched will b
 [<< Back to Getting Started with BagIt for MetaArchive](https://wiki.metaarchive.org/metawiki/index.php/Getting_Started_with_BagIt_for_MetaArchive#Phase_2:_Obtaining_.26_Using_BagIt_Tools_for_MetaArchive "Getting Started with BagIt for MetaArchive")  
 Retrieved from "<https://wiki.metaarchive.org/metawiki/index.php?title=Using_the_BagIt_find-bad-files.py_Script&oldid=7831>"
 
-* This page was last modified on 11 October 2013, at 18:34.
+

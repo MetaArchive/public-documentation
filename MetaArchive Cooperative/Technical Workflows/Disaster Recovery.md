@@ -1,5 +1,8 @@
-Disaster Recovery
-=================
+# Disaster Recovery
+{:.no_toc}
+
+1. ordered toc
+{:toc}
 
 
 * 1 [Disaster Recovery Steps by Disaster Type](#DisasterRecovery-trueDisasterRecoveryStepsbyDisasterType)

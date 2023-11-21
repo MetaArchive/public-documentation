@@ -1,5 +1,8 @@
-Post-Failure Restoration
-========================
+# Post-Failure Restoration
+{:.no_toc}
+
+1. ordered toc
+{:toc}
 
 
 * 1 [Backup Overview](#PostFailureRestoration-trueBackupOverview)

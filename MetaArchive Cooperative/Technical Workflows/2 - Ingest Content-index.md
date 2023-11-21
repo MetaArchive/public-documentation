@@ -1,7 +1,7 @@
 # 2 - Ingest Content
 {:.no_toc}
 
-1. test
+1. ordered toc
 {:toc}
 
 [Ingest Workflow Diagram](https://drive.google.com/file/d/1SRV6Lm0FUsFfNAz5er_Gkwaiyj57XlZV/view)

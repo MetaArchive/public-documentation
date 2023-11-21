@@ -1,7 +1,7 @@
 # How MetaArchive Works  <a name="top"></a>
 {:.no_toc}
 
-1. test
+1. ordered toc
 {:toc}
 
 # MetaArchive In a Nut Shell

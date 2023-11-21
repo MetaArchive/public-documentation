@@ -1,5 +1,8 @@
-MetaArchive Quality Assurance Strategy
-======================================
+# MetaArchive Quality Assurance Strategy
+{:.no_toc}
+
+1. ordered toc
+{:toc}
 
 1. Introduction
 ===============
