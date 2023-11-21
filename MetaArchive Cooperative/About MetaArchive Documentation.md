@@ -1,5 +1,8 @@
-About MetaArchive Documentation  <a name="top"></a>
-===============================
+# About MetaArchive Documentation  <a name="top"></a>
+{:.no_toc}
+
+1. test
+{:toc}
 
 ## Summary
 

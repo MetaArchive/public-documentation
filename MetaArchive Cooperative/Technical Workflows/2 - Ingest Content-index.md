@@ -1,35 +1,10 @@
-2 - Ingest Content
-==============
+# 2 - Ingest Content
+{:.no_toc}
 
-
-* 1 [Ingest Workflow Diagram](#IngestContent-trueIngestWorkflowDiagram)
-* 2 [Create Archival Units (AUs)](#IngestContent-CreateArchivalUnits(AUs))
-	+ 2.1 [Check for Junk System Files and Bad Filenames (optional but recommended)](#IngestContent-CheckforJunkSystemFilesandBadFilenames(optionalbutrecommended))
-	+ 2.2 [Serialization (zip / tar) (optional)](#IngestContent-Serialization(zip/tar)(optional))
-	+ 2.3 [Compressing (optional)](#IngestContent-Compressing(optional))
-	+ 2.4 [Bagging (optional)](#IngestContent-Bagging(optional))
-	+ 2.5 [HTML Manifest Page (required)](#IngestContent-HTMLManifestPage(required))
-* 3 [Stage AUs](#IngestContent-StageAUs)
-	+ 3.1 [Setting up the Staging Server](#IngestContent-SettinguptheStagingServer)
-	+ 3.2 [Move AUs to the Staging Server](#IngestContent-MoveAUstotheStagingServer)
-* 4 [Add AUs](#IngestContent-AddAUs)
-	+ 4.1 [Create a New Plugin (optional)](#IngestContent-CreateaNewPlugin(optional))
-		- 4.1.1 [Generic BagIt Plugins](#IngestContent-GenericBagItPlugins)
-	+ 4.2 [Create a New Collection (optional)](#IngestContent-CreateaNewCollection(optional))
-	+ 4.3 [Define the AUs in Conspectus](#IngestContent-DefinetheAUsinConspectus)
-	+ 4.4 [Notify Central Staff](#IngestContent-NotifyCentralStaff)
-* 5 [LOCKSS Crawling](#IngestContent-LOCKSSCrawling)
-	+ 5.1 [Test the Plugin and AUs](#IngestContent-TestthePluginandAUs)
-	+ 5.2 [Implement the Plugin and Move the AUs to the Production Network](#IngestContent-ImplementthePluginandMovetheAUstotheProductionNetwork)
-	+ 5.3 [Issue Call for Ingests](#IngestContent-IssueCallforIngests)
-	+ 5.4 [Add AUs](#IngestContent-AddAUs.1)
-	+ 5.5 [Monitor for Replications](#IngestContent-MonitorforReplications)
-* 6 [Clean Up Staged Content (Optional)](#IngestContent-CleanUpStagedContent(Optional))
-	+ 6.1 [Move (or ask IT staff to move) Staged AUs Offline](#IngestContent-Move(oraskITstafftomove)StagedAUsOffline)
-
+1. test
+{:toc}
 
 [Ingest Workflow Diagram](https://drive.google.com/file/d/1SRV6Lm0FUsFfNAz5er_Gkwaiyj57XlZV/view)
-==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 Create Archival Units (AUs)
 ===========================

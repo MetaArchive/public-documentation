@@ -1,44 +1,19 @@
-1 - Prepare Content for Ingest
+# 1 - Prepare Content for Ingest
 ==========================
+{:.no_toc}
 
-*** 1 [Local Management of Digital Content](#PrepareContentforIngest-LocalManagementofDigitalContent)
-	+ 1.1 [Create Inventory](#PrepareContentforIngest-CreateInventory)
-		- 1.1.1 [The Importance of the Collections Inventory](#PrepareContentforIngest-TheImportanceoftheCollectionsInventory)
-		- 1.1.2 [Categories of Content](#PrepareContentforIngest-CategoriesofContent)
-		- 1.1.3 [Date of Creation and Extent](#PrepareContentforIngest-DateofCreationandExtent)
-		- 1.1.4 [Available Metadata](#PrepareContentforIngest-AvailableMetadata)
-		- 1.1.5 [Formats](#PrepareContentforIngest-Formats)
-		- 1.1.6 [Storage Locations](#PrepareContentforIngest-StorageLocations)
-	+ 1.2 [Select Content to Be Preserved](#PrepareContentforIngest-SelectContenttoBePreserved)
-		- 1.2.1 [Risk Factors](#PrepareContentforIngest-RiskFactors)
-		- 1.2.2 [Selection Criteria](#PrepareContentforIngest-SelectionCriteria)
-		- 1.2.3 [Reviewing Content](#PrepareContentforIngest-ReviewingContent)
-	+ 1.3 [Organize Data Files](#PrepareContentforIngest-OrganizeDataFiles)
-		- 1.3.1 [Importance of Organization and Management](#PrepareContentforIngest-ImportanceofOrganizationandManagement)
-		- 1.3.2 [File Naming Guidelines](#PrepareContentforIngest-FileNamingGuidelines)
-		- 1.3.3 [File Naming Examples](#PrepareContentforIngest-FileNamingExamples)
-		- 1.3.4 [MetaArchive Member Acronyms](#PrepareContentforIngest-MetaArchiveMemberAcronyms)
-		- 1.3.5 [Recording File Name Changes](#PrepareContentforIngest-RecordingFileNameChanges)
-	+ 1.4 [Create Metadata](#PrepareContentforIngest-CreateMetadata)
-		- 1.4.1 [Metadata Significance](#PrepareContentforIngest-MetadataSignificance)
-		- 1.4.2 [Inclusion of Collection & Item Level Metadata](#PrepareContentforIngest-InclusionofCollection&ItemLevelMetadata)
-		- 1.4.3 [Minimum Metadata Elements](#PrepareContentforIngest-MinimumMetadataElements)
-			* 1.4.3.1 [Example of Collection Level Metadata](#PrepareContentforIngest-ExampleofCollectionLevelMetadata)
-			* 1.4.3.2 [Example of Item Level Metadata exported from InDiPres member collection metadata in CONTENTdm](#PrepareContentforIngest-ExampleofItemLevelMetadataexportedfromInDiPresmembercollectionmetadatainCONTENTdm)
-	+ 1.5 [Personally Identifiable Information (PII)](#PrepareContentforIngest-PersonallyIdentifiableInformation(PII))
-		- 1.5.1 [PII Examples](#PrepareContentforIngest-PIIExamples)
-	+ 1.6 [Copyright](#PrepareContentforIngest-Copyright)
-	+ 1.7 [Preservation policy guidance](#PrepareContentforIngest-Preservationpolicyguidance)**
+1. test
+{:toc}
 
-**Local Management of Digital Content**
-=======================================
+# Local Management of Digital Content
+
 
 This section will provide information and suggestions on collection management and organization for MetaArchive member institutions. Establishing physical and intellectual control of a set of digital collections is an important element of a digital preservation program. 
 
-**Create Inventory**
---------------------
+## Create Inventory
 
-### **The Importance of the Collections Inventory**
+
+### The Importance of the Collections Inventory
 
 The inventory serves as an overall guide to the digital collections held by your organization and should be updated with new information as additional content is created, decisions are made, and/or actions taken. It is suggested that the inventory document be the responsibility of one individual in order to keep the data entry consistent. Develop an inventory instrument that makes sense for your institution and its needs. To create the inventory use software with which you are already familiar and which is easy to use. A spreadsheet program like Microsoft Excel or OpenOffice Calc are two useful basic and easily accessible software tools for collection inventory.  
 
@@ -50,7 +25,7 @@ It would be ideal to work on creating an effective and accurate inventory of all
   
 
 
-### **Categories of Content**
+### Categories of Content
 
 An effective strategy to organize content is to differentiate collections according to relevant categories. There are many different possible categories, and each MetaArchive institution is best situated to know these options for their own collections. One example of a category would be to assign each digital collection a type category based on the nature of the collection content. Examples of these content categories such as “Photographs,” “Documents,” “Public Records,” “Oral Histories,” and “Audio” or “Video” are appropriate designations. 
 
@@ -291,7 +266,3 @@ Having a formal written policy which describes and directs the work of digital p
 
 1. Preservation Policy Template <https://metaarchive.org/wp-content/uploads/2017/03/ma_dp_policy_template.pdf>
 2. InDiPres example: <https://docs.google.com/document/d/1RHRMtxAMNTht_urKcg3iPQrfCPBo9YsV/edit#heading=h.gjdgxs>
-
-  
-
-
