@@ -1,3 +1,5 @@
+<a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
 About MetaArchive Documentation
 ===============================
 
