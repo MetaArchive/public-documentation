@@ -37,29 +37,6 @@ footer {
 }
 
 /* GitHub style Octicon anchor links */
-h1 {
-  text-indent: -2px;
-}
-
-h2 {
-  text-indent: -10px;
-}
-
-h3 {
-  text-indent: -8px;
-}
-
-h4 {
-  text-indent: -6px;
-}
-
-h5 {
-  text-indent: -4px;
-}
-
-h6 {
-  text-indent: -2px;
-}
 
 h1 .octicon, h2 .octicon, h3 .octicon, h4 .octicon, h5 .octicon, h6 .octicon  {
   visibility: hidden;
