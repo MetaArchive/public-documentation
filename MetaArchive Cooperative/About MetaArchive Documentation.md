@@ -1,5 +1,5 @@
-<a class="top-link hide" href="#top">↑</a>
 <a name="top"></a>
+
 About MetaArchive Documentation
 ===============================
 
@@ -57,3 +57,5 @@ About MetaArchive Documentation
 	+ edit this GitHub site
 	+ see and edit documents in Google Docs
 * Members interested in improving documentation are invited to join the Documentation Committee!
+
+<a class="top-link hide" href="#top">↑</a>
