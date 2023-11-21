@@ -1,19 +1,24 @@
 About MetaArchive Documentation
 ===============================
 
-*** 1 [Summary:](#AboutMetaArchiveDocumentation-trueSummary:)
-* 2 [Where to find the documentation you need:](#AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed:)
-* 3 [Using and editing this wiki:](#AboutMetaArchiveDocumentation-Usingandeditingthiswiki:)**Summary:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Table of Contents**
+1. [Summary](#AboutMetaArchiveDocumentation-Summary)
+2. [Where to find the documentation you need](#AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed)
+3. [Using and editing this wiki](#AboutMetaArchiveDocumentation-Usingandeditingthiswiki)
+
+<a id="AboutMetaArchiveDocumentation-Summary"></a>
+
+## Summary
 
 * Official documentation related to the MetaArchive Cooperative as an organization is on the MetaArchive website.
 * Working documentation related to the everyday business of MetaArchive can be found in Google Docs.
-* Technical documentation and workflows covering how to do digital preservation is here in Confluence.
+* Technical documentation and workflows covering how to do digital preservation is here in GitHub.
 * As a principle, we try to make as much of our documentation safely available as we can, so that the larger digital preservation community can benefit.
 * By joining MetaArchive, you can contribute to our documentation by signing up with the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
 
-Where to find the documentation you need:
------------------------------------------
+<a id="AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed"></a>
+
+## Where to find the documentation you need:
 
 * **General information** about MetaArchive and Distributed Digital Preservation can be found on the **[website](https://metaarchive.org/)** (although editable versions are in [Google Drive](https://drive.google.com/drive/folders/0B7Rd1873z4DUenA4RExmMklBVms?resourcekey=0-NN0k7D8NG24cN5vOOII3Sg))  
 
@@ -34,27 +39,19 @@ Where to find the documentation you need:
 	+ [Committee work](https://drive.google.com/drive/folders/0B7Rd1873z4DUfklkN3ltaDQ5SE9mRXNmcy16b0F3RWxjZHhTeXNLUHpWaTYxZVFKUlJoV28?resourcekey=0-SW9MZFTRiSfyY2oq2enQJg) (MetaArchive Cooperative > Governance > Committees)
 	+ Outreach and Advocacy
 	+ Research
-* **Technical information** (ingest process, setting up and maintaining servers, etc.) **is here in this wiki in Confluence**
+* **Technical information** (ingest process, setting up and maintaining servers, etc.) **is here in GitHub**
 * + [How MetaArchive Works](/public-documentation/MetaArchive Cooperative/How MetaArchive Works) includes "big picture" guides on how MetaArchive members preserve digital content, including overviews, technical specifications, and which member institutions use which tools in their workflows.
 	+ [Technical Workflows](/public-documentation/MetaArchive Cooperative/Technical Workflows) are step-by-step guides on how to complete certain tasks, including preparing content for ingest, ingesting and monitoring content, and resolving problems.
 	+ [Knowledge Base](/public-documentation/MetaArchive Cooperative/Knowledge Base) pages serve as a glossary and include information about individual terms and tools, as well as best practices and additional contextual information that is helpful.
 	+ Network Administration (restricted) pages include technical workflows for network administrators.  If you need access to these pages, please contact the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
 	+ Technical Team (restricted) pages include technical documentation for MetaArchive central staff developers. If you need access to these pages, please contact the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
-	+ Note that technical information included here is tagged with user roles:  
-	
-		- [For data wranglers](https://confluence.educopia.org/label/MET/data_wrangler)
-		- [For content managers](https://confluence.educopia.org/label/MET/content_manager)
-		- [For server administrators](https://confluence.educopia.org/label/MET/server_administrator)
 
-Using and editing this wiki:
-----------------------------
+<a id="AboutMetaArchiveDocumentation-Usingandeditingthiswiki"></a>
 
-* Anyone can read through the public pages of this Confluence site, and suggest changes by contacting the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
+## Using and editing this wiki:
+
+* Anyone can read through the public pages of this GitHub site, and suggest changes by contacting the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
 * Members of MetaArchive can contact the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator) request access to:
-	+ edit this Confluence site
+	+ edit this GitHub site
 	+ see and edit documents in Google Docs
 * Members interested in improving documentation are invited to join the Documentation Committee!
-
-  
-
-
