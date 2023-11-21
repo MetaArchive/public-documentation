@@ -1,16 +1,5 @@
-How MetaArchive Works
+How MetaArchive Works  <a name="top"></a>
 =====================
-
-**Table of Contents**
-* 1 [MetaArchive In a Nut Shell](#MetaArchiveInaNutShell)
-	+ 1.1 [The Steps of Preservation with MetaArchive](#TheStepsofPreservationwithMetaArchive)
-		- 1.1.1 [Phase 1: Preparing Content](#Phase1:PreparingContent)
-		- 1.1.2 [Phase 2: Configuring the MetaArchive Network to Ingest Content](#Phase2:ConfiguringtheMetaArchiveNetworktoIngestContent)
-		- 1.1.3 [Phase 3: Ingesting Content](#Phase3:IngestingContent)
-		- 1.1.4 [Phase 4: Preserving Content](#Phase4:PreservingContent)
-		- 1.1.5 [Phase 5: Restoration of Content](#Phase5:RestorationofContent)
-
-<a id="MetaArchiveInaNutShell"></a>
 
 # MetaArchive In a Nut Shell
 
@@ -20,11 +9,7 @@ Content is stored in and restored to its original format. Participating institut
 
 All content is stored in multiple copies on multiple caches at geographically dispersed locations. The MetaArchive network manages the number of replication so that a loss of all copies becomes extremely unlikely. If an institution loses preserved content for whatever reason its content is restored in its original form.
 
-<a id="TheStepsofPreservationwithMetaArchive"></a>
-
 ## The Steps of Preservation with MetaArchive
-
-<a id="Phase1:PreparingContent"></a>
 
 ### Phase 1: Preparing Content
 
@@ -56,8 +41,6 @@ Member institutions prepare content for preservation, producing packages of cont
 
 ![Prepare.png](attachments/Prepare.png)
 
-<a id="Phase2:ConfiguringtheMetaArchiveNetworktoIngestContent"></a>
-
 ### Phase 2: Configuring the MetaArchive Network to Ingest Content
 
 Phase 2 starts once the **Content Owner** and the **Tech Person** agree that the approach taken will preserve the intended content. This happens when:
@@ -65,8 +48,6 @@ Phase 2 starts once the **Content Owner** and the **Tech Person** agree that
 1. The **Tech Person** publicizes the crawl procedure in the MetaArchive code repository;
 2. The **Tech Person** and/or **Content Owner** enters configuration parameters for the content that is now available for preservation in the MetaArchive Conspectus tool; and
 3. The **MetaArchive Central Staff** adds the configuration parameters to the MetaArchive title database
-
-<a id="Phase3:IngestingContent"></a>
 
 ### Phase 3: Ingesting Content
 
@@ -83,21 +64,13 @@ Member creates entry in the MetaArchive [Conspectus](/public-documentation/MetaA
 
 ![Ingest.png](attachments/Ingest.png)
 
-  
-
-
 Member makes content available to network via web “staging” server.
 
 ![Ingest_02.png](attachments/Ingest_02.png)
 
-  
-
-
 Five member storage nodes are assigned to ingest the new content.
 
 ![Five_Replications.png](attachments/Five_Replications.png)
-
-<a id="Phase4:PreservingContent"></a>
 
 ### Phase 4: Preserving Content
 
@@ -118,22 +91,13 @@ Members can monitor progress and completion of ingest process via the Conspectus
 
 ![How_MetaArchive_Works_05.png](attachments/How_MetaArchive_Works_05.png)
 
-  
-
-
 After ingest, storage nodes regularly and iteratively check in with each other (called "polling and voting") to make sure that all five copies of the content remain identical over time.
 
 ![2022-10-10 12_55_09-How_MetaArchive_Works_07.png](attachments/2022-10-10 12_55_09-How_MetaArchive_Works_07.png)
 
-  
-
-
 If a mismatch is detected between two nodes, the servers determine regarding which copies are correct and which do not match, and then the network repairs the corrupted files and records that action.
 
 ![How_MetaArchive_Works_08.png](attachments/How_MetaArchive_Works_08.png)
-
-  
-<a id="Phase5:RestorationofContent"></a>
 
 ### Phase 5: Restoration of Content
 
@@ -147,3 +111,5 @@ Member alerts the network administrator via email and requests a preserved copy.
 Network administrator retrieves a copy from the network and makes it available via download to member institution.
 
 In case of a local disaster or hardware failure, members can contact the network administrator to set up a replacement server and recover the content from the MetaArchive.
+
+<a class="top-link hide" href="#top">↑</a>

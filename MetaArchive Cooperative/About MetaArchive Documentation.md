@@ -1,15 +1,6 @@
 About MetaArchive Documentation  <a name="top"></a>
 ===============================
 
-**Table of Contents**
-1. [Summary](#AboutMetaArchiveDocumentation-Summary)
-2. [Where to find the documentation you need](#AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed)
-3. [Using and editing this wiki](#AboutMetaArchiveDocumentation-Usingandeditingthiswiki)
-
-{{toc:2-5}}
-
-<a id="AboutMetaArchiveDocumentation-Summary"></a>
-
 ## Summary
 
 * Official documentation related to the MetaArchive Cooperative as an organization is on the MetaArchive website.
@@ -17,8 +8,6 @@ About MetaArchive Documentation  <a name="top"></a>
 * Technical documentation and workflows covering how to do digital preservation is here in GitHub.
 * As a principle, we try to make as much of our documentation safely available as we can, so that the larger digital preservation community can benefit.
 * By joining MetaArchive, you can contribute to our documentation by signing up with the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
-
-<a id="AboutMetaArchiveDocumentation-Wheretofindthedocumentationyouneed"></a>
 
 ## Where to find the documentation you need:
 
@@ -47,8 +36,6 @@ About MetaArchive Documentation  <a name="top"></a>
 	+ [Knowledge Base](/public-documentation/MetaArchive Cooperative/Knowledge Base) pages serve as a glossary and include information about individual terms and tools, as well as best practices and additional contextual information that is helpful.
 	+ Network Administration (restricted) pages include technical workflows for network administrators.  If you need access to these pages, please contact the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
 	+ Technical Team (restricted) pages include technical documentation for MetaArchive central staff developers. If you need access to these pages, please contact the [Community Facilitator](/public-documentation/MetaArchive Cooperative/Knowledge Base/Community Facilitator).
-
-<a id="AboutMetaArchiveDocumentation-Usingandeditingthiswiki"></a>
 
 ## Using and editing this wiki:
 
