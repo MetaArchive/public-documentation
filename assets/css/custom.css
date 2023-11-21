@@ -35,3 +35,52 @@ footer {
   height:           1em;
   background-color: #F8F8F8;
 }
+
+/*TOC (for DEVONthink Markdown documents; for other editors, try e.g. ".toc")*/
+.toc {
+  background:     #f4f5f8 none repeat scroll 0 0; //f3f6f6
+  border:         0px solid #aaa;
+  border-radius:  10px;
+  display:        table;
+  font-size:      95%;
+  margin-bottom:  1em;
+  padding-left:   2px;
+  padding-top:    2px;
+  padding-bottom: 2px;
+  padding-right:  2px;
+  width:          100%;
+}
+
+/*uncomment if you'd like to automatically add a title to your TOC:*/
+.toc:before {
+  content:        "Table of Contents";
+  font-weight:    bold;
+  font-size:      1.1em;
+  color:          #3973ad;
+  padding-left:   1em;
+  margin-bottom: -1em;
+  line-height:    3em;
+}
+
+.toc li, .toc ul, .toc ul li{
+  list-style:     decimal;
+}
+
+.top-link {
+transition:       all .25s ease-in-out;
+position:         fixed;
+bottom:           0;
+right:            0;
+display:          inline-flex;
+color:            #000000;
+
+cursor:           pointer;
+align-items:      center;
+justify-content:  center;
+margin:           0 2em 2em 0;
+border-radius:    50%;
+padding:          .25em;
+width:            1em;
+height:           1em;
+background-color: #F8F8F8;
+}
