@@ -1,5 +1,5 @@
 header {
-  width:300px; /* Cliff added to prevent page tree text cutoff */
+  width:350px; /* Cliff added to prevent page tree text cutoff */
   top: 0px;
   bottom: 75px;
   overflow-y:auto;
