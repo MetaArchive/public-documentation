@@ -1,8 +1,10 @@
-# Staging Server   <a name="top"></a>
+# Staging Server  <a name="top"></a>
 {:.no_toc}
 
 1. ordered toc
 {:toc}
+
+## Staging Server
 
 A **staging server** is a location where [archival units](/public-documentation/MetaArchive Cooperative/Knowledge Base/Archival Units (AUs)) are placed to await ingest into the MetaArchive LOCKSS network.  A plugin is used to "show" the LOCKSS network where the incoming AUs are located.
 
