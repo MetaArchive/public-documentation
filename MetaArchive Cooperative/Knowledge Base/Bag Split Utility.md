@@ -4,7 +4,7 @@
 
 **The [BagIt-Python](https://github.com/LibraryOfCongress/bagit-python/) library deprecated a function that the Bag Split Utility used, so the utility is [no longer able to update bag manifests](https://github.com/LibraryOfCongress/bagit-python/issues/61).** 
 
-**Additionally, the tool was originally designed to help split bags into 30GB chunks. Since network speed and storage are no longer as limited as they once were, the need for the tool is also deprecated. MetaArchive now accepts [AUs up to 300GB](/public-documentation/MetaArchive Cooperative/Technical Workflows/Ingest Content).**
+**Additionally, the tool was originally designed to help split bags into 30GB chunks. Since network speed and storage are no longer as limited as they once were, the need for the tool is also deprecated. MetaArchive now accepts [AUs up to 300GB](/public-documentation/MetaArchive Cooperative/Knowledge Base/Technical Workflows/2 - Ingest Content-index.md).**
 
 Please see below for historical documentation, and/or the code repo at **<https://github.com/MetaArchive/bagit-split>.**
 
