@@ -1,19 +1,16 @@
 # 1 - Prepare Content for Ingest
-==========================
 {:.no_toc}
 
 1. ordered toc
 {:toc}
 
-# Local Management of Digital Content
-
+## Local Management of Digital Content
 
 This section will provide information and suggestions on collection management and organization for MetaArchive member institutions. Establishing physical and intellectual control of a set of digital collections is an important element of a digital preservation program. 
 
-## Create Inventory
+### Create Inventory
 
-
-### The Importance of the Collections Inventory
+#### The Importance of the Collections Inventory
 
 The inventory serves as an overall guide to the digital collections held by your organization and should be updated with new information as additional content is created, decisions are made, and/or actions taken. It is suggested that the inventory document be the responsibility of one individual in order to keep the data entry consistent. Develop an inventory instrument that makes sense for your institution and its needs. To create the inventory use software with which you are already familiar and which is easy to use. A spreadsheet program like Microsoft Excel or OpenOffice Calc are two useful basic and easily accessible software tools for collection inventory.  
 
@@ -22,38 +19,35 @@ It would be ideal to work on creating an effective and accurate inventory of all
 *Basic Example of an Excel Digital Collection Inventory*
 
 ![image2022-9-23_14-8-53.png](attachments/image2022-9-23_14-8-53.png)  
-  
 
-
-### Categories of Content
+#### Categories of Content
 
 An effective strategy to organize content is to differentiate collections according to relevant categories. There are many different possible categories, and each MetaArchive institution is best situated to know these options for their own collections. One example of a category would be to assign each digital collection a type category based on the nature of the collection content. Examples of these content categories such as “Photographs,” “Documents,” “Public Records,” “Oral Histories,” and “Audio” or “Video” are appropriate designations. 
 
 MetaArchive members may also find it useful to note the origin of the digital collections and whether the content has an “analog” counterpart or if it is “born digital.” Analog to digital content means that a given collection is a digital facsimile of a real physical set of materials. “Born Digital,” on the other hand, indicates that a collection was generated from its inception as digital data and does not have a corresponding physical version.  
 
 
-### **Date of Creation and Extent**
+#### **Date of Creation and Extent**
 
 An important piece of technical information for digital files is their age and total size. Include in the inventory the date each collection was digitized as well as its approximate data size. It is important at several key stages in the process of digital preservation to know the size of the data batches being transferred and preserved.  A collection’s size affects processing time and the collection’s interaction with MetaArchive's preservation network. Also knowing how long digital data has existed is critical to judging its potential for degradation. The risk of degradation is an important factor in determining preservation priorities.  
 
-### **Available Metadata**
+#### **Available Metadata**
 
 Note the availability of both item- and collection-level metadata. Item-level metadata will be packaged with the related data files for ingest into the preservation network; and thus, will be retrievable along with the content should file restoration be required. Collection-level metadata is used to describe the collection as a whole at different points of processing.
 
-### **Formats**
+#### **Formats**
 
 Record the file formats of your digital collections. The MetaArchive Cooperative Preservation Network is platform agnostic and will accept all types of data. However, it is important to know the file formats of your data in case it is necessary to migrate from an obsolete platform into a new format. Using stable file formats in the creation of digital content helps ensure the longevity of the data. Examples of stable formats are: TIFF, JPEG, PDF and WAV.
 
-### **Storage Locations**
+#### **Storage Locations**
 
 Add the location where digital collection data is stored to the inventory. This could be online, offline, or through the use of external media such as tapes, DVDs, or CDs. If you are using network storage specify the exact file path where the collection is stored. If you have multiple copies note where each file resides.
 
-**Select Content to Be Preserved**
-----------------------------------
+### Select Content to Be Preserved
 
 This portion offers assistance with decision-making. It will set out best practices and guidelines to consider in determining member preservation priorities when selecting content for preservation. Individual MetaArchive members are considered to be the experts on their digital materials. It is up to each member to decide which of their digital collections require long term preservation, and the order in which they are submitted for ingest into the MetaArchive Preservation Network. 
 
-### **Risk Factors**
+#### Risk Factors
 
 Risk factors are threats to the integrity and accessibility of digital material. Digital content is far more fragile than its analog counterpart and can be permanently lost or damaged for a variety of reasons.  
 
@@ -63,7 +57,7 @@ When deciding on what digital content to preserve, there are three major risk fa
 * **Obsolescence**: A collection’s age, formatting, type of technology device or access program can be a source of problems for digital content. Technology evolves quickly, rendering software and playback devices obsolete. File formats and types also change over time and necessary access equipment or software may become difficult or impossible to locate. Digital content may require reformatting or emulation in a new application in order to retain access to the data.
 * **Disaster Damage**: Are there any serious threats to the existence of this digital collection? Disaster damage can come in the form of fire, floods, electrical damage from storms or other threats from natural disasters.
 
-### **Selection Criteria**
+#### Selection Criteria
 
 In addition to creating an inventory, it is important to develop selection criteria to help you prioritize data for long term preservation. Developing selection criteria for digital content is similar to creating a collection development policy. Digital collections, selection criteria, and the digital preservation plan should be represented in an institution’s collection development policy. Here are some things to consider:  
 
@@ -79,7 +73,7 @@ In addition to creating an inventory, it is important to develop selection crite
 * **Who Owns Rights:** This is frequently a topic of concern with digital preservation and digitization. It is suggested that collections to which an institution indisputably holds the copyright be given priority for preservation both for intellectual property reasons and because it may represent a truly unique and valuable cultural heritage resource. The MetaArchive is a dark archive with zero content access outside of the content owner and the MetaArchive staff.
 * **Digital Quality:** Consider the quality of the original digitization that created the collections in question. Is it high quality or low quality? Does it accurately capture the original material and is it a useful substitute for viewing the physical items? If digitization was done poorly and resulted in blurry, inaccurate, or low resolution digital copies, the poor quality should weigh against this material being digitally preserved.
 
-### **Reviewing Content**
+#### Reviewing Content
 
 An important point in the selection effort is to document the priority decisions and selection criteria made by MetaArchive member institutions. It is important to do this to avoid a situation where the effort of this process becomes unavailable and has to be done again. An effective method of doing this, and one suggested generally for organizing digital collections, is to create a spreadsheet with each digital collection listed. Populate this list then with all the relevant information about file name, data size, storage location, metadata, and any other descriptive or technical information that would be useful depending on the member institution’s unique circumstances. Decision points related to the content selection include the following:   
 
@@ -87,14 +81,13 @@ An important point in the selection effort is to document the priority decisions
 * **Feasibility for Preservation:** What are the major obstacles to a specific collection being digitally preserved through MetaArchive?  Once the obstacles are identified, determine if they are surmountable or insurmountable.
 * **Consistency of Content:** Take note of issues like file naming conventions used, level of description, quality of digitization, file formatting. If there is a great deal of variation on these points within a collection, it could make this material less of a priority for preservation.
 
-**Organize Data Files**
------------------------
+### Organize Data Files
 
-### **Importance of Organization and Management**
+#### Importance of Organization and Management
 
 A key piece of the MetaArchive Cooperative is to offer its members the guidance and best practices that empower staff to take physical and intellectual control of local digital collections. When developing and implementing policies for the creation, organization, and management of digital content, it is important that decisions  are documented and followed for consistency. Writing a local digital preservation policy and plan to address your institution’s collections and establishing it as part of your overall collection development or management document will ensure that digital preservation becomes an integral part of your institution’s mission. On the collection level, categorizing digital content, its format, extent, organization, available metadata, and storage locations are vital components of appropriate stewardship of digital assets for long-term preservation. Creating an inventory instrument to record detailed information about your institution’s digital collections will assist you in tracking the characteristics and life cycle of its digital assets.
 
-### **File Naming Guidelines**
+#### **File Naming Guidelines**
 
 It is important to establish appropriate and accurate file naming conventions for content being digitized. Decide upon a short, simple set of naming practices and apply them consistently. Create file name guidelines that fit the needs of your individual institution and collections. Abbreviate when possible, but the more descriptive the file name the easier it will be to recognize the content being represented. Be consistent in structuring the elements of the file names such as the presentation of dates or proper nouns. It is advisable to add this to your institution’s established preservation workflow formally, and apply this file naming to digital content being accessioned into collection holdings. 
 
@@ -109,7 +102,7 @@ It is important to establish appropriate and accurate file naming conventions fo
 
 A helpful free tool for bulk renaming is [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/).
 
-### **File Naming Examples**
+#### File Naming Examples
 
 The three elements work together to locate a specific file by its institution, the parent collection, and its context within the original order of the collection materials:
 
@@ -128,11 +121,11 @@ The three elements work together to locate a specific file by its institution, t
 * ALA\_Peterson\_2011\_02
 * RHIT\_Peddle\_0034c
 
-### **MetaArchive Member Acronyms**
+#### MetaArchive Member Acronyms
 
 MetaArchive members are assigned an institutional identifier consisting of a 2-4 letter acronym based on the title of the institution. For example, the HBCU Library Alliance would be **hbcu**, while Auburn University would be **aub**. This acronym is included in all the different stages of the ingest process in order to differentiate each member’s collection. It is suggested that if possible this acronym be included as the first identifier for each individual file as a means to distinguish file ownership.  
 
-### **Recording File Name Changes**
+#### Recording File Name Changes
 
 Should file renaming and restructuring be necessary, it’s recommended that these changes be recorded in a spreadsheet or other document listing the original file designations along with their new reconfiguration. 
 
@@ -151,20 +144,19 @@ Situations when file names need revision:
 
 *Example Spreadsheet recording file name changes*
 
-**Create Metadata**
--------------------
+### Create Metadata
 
-### **Metadata Significance**
+#### Metadata Significance
 
 The inclusion of appropriate metadata is equally important to keeping digital content useful and secure as the actual content files. Accurate and effective metadata will contextualize and explain preserved digital content that is retrieved from the MetaArchive network, if recovery becomes necessary. 
 
-### **Inclusion of Collection & Item Level Metadata**
+#### Inclusion of Collection & Item Level Metadata
 
 Metadata is a critical element of digital preservation. When preparing collections to submit for ingestion into the MetaArchive network it is necessary to provide as much and as detailed a set of metadata as possible.  This can include exported data from collection management systems, collection descriptions, and/or other types of contextualizing and descriptive information that will help in re-creating the digital collection if recovery becomes necessary. 
 
 Whether exporting metadata from a system or placing it in a document it is important to consider the long term usability of this data as well. Save metadata in a file format that is stable and will be usable long term. For example saving a spreadsheet with metadata in .CSV file, Excel file, or a .txt file will ensure the long term accessibility of this metadata information. 
 
-### **Minimum Metadata Elements**
+#### Minimum Metadata Elements
 
 If metadata elements relating to a specific collection are not present at the collection level, create a document listing the essential metadata for a collection. Below is included a list of basic descriptive points that it would be advisable to include.
 
@@ -181,9 +173,6 @@ If metadata elements relating to a specific collection are not present at the co
 **Collection Provider**: The name of the institution providing the digital collection content files and associated item level metadata
 
 **Data size:** Extent of digital content for each AU/Bag
-
-  
-
 
 **Title**: LeFleur Whaling Collection
 
@@ -223,7 +212,7 @@ vchs-dc2005-001-0008.jpg, 2005.001.0008       8/30/2005 1/11/2008 <http://vision
 
  1.jpg Volume1\vchs-dc100.jpg /vchs/image/1.jpg
 
-#### *Example of Item Level Metadata exported from InDiPres member collection metadata in CONTENTdm*
+##### Example of Item Level Metadata exported from InDiPres member collection metadata in CONTENTdm
 
 ![image2022-9-23_14-10-41.png](attachments/image2022-9-23_14-10-41.png)
 
@@ -231,36 +220,29 @@ vchs-dc2005-001-0008.jpg, 2005.001.0008       8/30/2005 1/11/2008 <http://vision
 
 See the MetaArchive Content Policy **<CL: is this still a thing?>** for guidelines and recommendations on selecting or prioritizing collections for preservation.
 
-Personally Identifiable Information (PII)
------------------------------------------
+### Personally Identifiable Information (PII)
 
 Personally Identifiable Information (PII) is "any information about an individual maintained by an agency, including (1) any information that can be used to distinguish or trace an individual‘s identity, such as name, social security number, date and place of birth, mother‘s maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information." (<https://www.gao.gov/assets/gao-08-536.pdf>, p. 1, footnote 1)
 
 Although MetaArchive is a dark archive, sharing PII in the network is discouraged. Member institutions should refer to their own policies about PII, but at minimum we recommend redacting non-essential PII in preservation copies, as well as for access copies. 
 
-### PII Examples
+#### PII Examples
 
 For example, if electronic theses and dissertations (ETDs) were originally submitted to the institution with information containing **students' addresses**, **social security** or **student ID numbers**, and/or **signatures**, that information should be redacted before ingestion into the MetaArchive. Each student's name and educational status is essential to the context of the ETD, and should be retained, although the institution's copyright policy (see below) should inform students of this.
 
 For more information, see the *Guide to Protecting the Confidentiality of Personally Identifiable Information (PII):* *Recommendations of the National Institute* *of Standards and Technology*: <https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-122.pdf>
 
-Copyright
----------
+### Copyright
 
 Balancing copyright and fair use in a distributed digital preservation program like MetaArchive can be challenging.
 
 As Dwayne K. Buttler writes in the conclusion to *Chapter 8: Copyright Practice in the DDP: Practice makes Perfect (or at least workable)* of [A Guide to Distributed Digital Preservation](https://metaarchive.org/wp-content/uploads/2017/03/A_Guide_to_Distributed_Digital_Preservation_0.pdf):
 
-
 > Copyright and new technologies have a long history of conflict, tolerance, co-existence, and ultimately widespread adoption. DDP is ultimately a strategy and a business practice embracing new digital technologies in order to serve an age-old goal—keeping cultural memories alive for future generations, no matter the medium of original dissemination. Copyright law supports that goal in principle and practice; it just sometimes takes a lot of practice. (pages 99-111)  
-> 
-> 
-> 
 
 Another helpful resource specific to ETDs is [Copyright: Preservation and Curation of ETD Research Data and Complex Digital Objects](https://educopia.org/wp-content/uploads/2018/04/etdplus_copyright_guidancebrief.pdf). 
 
-Preservation policy guidance
-----------------------------
+### Preservation policy guidance
 
 Having a formal written policy which describes and directs the work of digital preservation can be a great aid in successfully carrying out this complex but critical work. As with other types of policy documentation this will act as a bedrock formulation of the goals, practices, and responsibilities for enacting preservation of digital assets. A good policy will set out an approach, identify responsible parties, and address "big picture" questions of what is being preserved and why.  Establishing a policy as part of your overall collection development or management documentation can help integrate digital preservation into your institution’s mission.
 
