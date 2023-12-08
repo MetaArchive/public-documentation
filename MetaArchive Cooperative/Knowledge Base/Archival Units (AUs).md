@@ -1,15 +1,8 @@
 Archival Units (AUs)
 ====================
 
-
 * 1 [AU Size](#ArchivalUnits(AUs)-AUSize)
 * 2 [Tarring / Zipping / Compressing AUs](#ArchivalUnits(AUs)-Tarring/Zipping/CompressingAUs)
-
-
-
-
-  
-
 
 Archival units (AUs) are containers for files preserved in LOCKSS. Each AU has an [AUID](/public-documentation/MetaArchive Cooperative/Knowledge Base/AUID - Archival Unit ID), associated administrative metadata, and member URLs or files. Each LOCKSS cache stores AUs in opaque directories on the server filesystem, each AU is self-contained and self-describing. AU directories can be mapped to AUIDs. 
 
@@ -31,4 +24,3 @@ Zipping or tarring (uncompressed) AUs makes recovery/movement a little easier te
 Many preservationists avoid compression, particularly lossy compression. It introduces risk by making files more fragile and susceptible to catastrophic damage in the event of a bit flip. Lossy compression results in permanent loss of the original data, i.e. it's non-reversible. However, use and implementation of lossless compression (which is reversible) can be a valid decision if it suits institutional needs and constraints, just be warned and have good documentation of your workflow choices.
 
 If you are using Amazon Web Services (AWS) for staging, AUs need to be serialized.
-
