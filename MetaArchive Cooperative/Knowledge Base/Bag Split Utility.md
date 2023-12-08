@@ -1,20 +1,10 @@
-Bag Split Utility
-=================
-
-
-* 1 [NOTE: This tool is deprecated and no longer functioning.](#BagSplitUtility-trueNOTE:Thistoolisdeprecatedandnolongerfunctioning.)
-	+ 1.1 [Bag Split Utility Usage](#BagSplitUtility-BagSplitUtilityUsage)
-		- 1.1.1 [Overview](#BagSplitUtility-Overview)
-		- 1.1.2 [Splitting a Bag](#BagSplitUtility-SplittingaBag)
-		- 1.1.3 [Unsplitting a Bag](#BagSplitUtility-UnsplittingaBag)
-
+#Bag Split Utility
 
 **NOTE: This tool is deprecated and no longer functioning.**
-=========================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 **The [BagIt-Python](https://github.com/LibraryOfCongress/bagit-python/) library deprecated a function that the Bag Split Utility used, so the utility is [no longer able to update bag manifests](https://github.com/LibraryOfCongress/bagit-python/issues/61).** 
 
-**Additionally, the tool was originally designed to help split bags into 30GB chunks. Since network speed and storage are no longer as limited as they once were, the need for the tool is also deprecated.  MetaArchive now accepts [AUs up to 300GB](/public-documentation/MetaArchive Cooperative/Technical Workflows/Ingest Content).**
+**Additionally, the tool was originally designed to help split bags into 30GB chunks. Since network speed and storage are no longer as limited as they once were, the need for the tool is also deprecated. MetaArchive now accepts [AUs up to 300GB](/public-documentation/MetaArchive Cooperative/Technical Workflows/Ingest Content).**
 
 Please see below for historical documentation, and/or the code repo at **<https://github.com/MetaArchive/bagit-split>.**
 
@@ -28,8 +18,7 @@ Making use of the Bag Split Utility occurs during Step 9 in [Getting Started wit
 
 The Bag Split Utility can be obtained from our MetaArchive GitHub repository here: <https://github.com/MetaArchive/bagit-split>. Usage is documented in the README, which is also provided below. The "unsplitting" function mentioned can be ignored during the process of preparing collections for a BagIt ingest into MetaArchive.
 
-Bag Split Utility Usage
------------------------
+##Bag Split Utility Usage
 
 ### Overview
 
@@ -37,13 +26,11 @@ This tool provides functionality for splitting BagIt bags into a collection of s
 
 To see the full command-line help text, do:
 
-
 ```
   $ python bagit-split.py --help
 
 ```
 ### Splitting a Bag
-
 
 ```
   $ bag splitbagbysize <BAG> --maxbagsize 30
@@ -60,10 +47,8 @@ The second command uses this tool to verify the split bags against the original 
 
 ### Unsplitting a Bag
 
-
 ```
   $ python bag-split.py unsplit <DIRECTORY CONTAINING BAGS>
 
 ```
 This command creates a new directory called MERGED\_BAG by merging the bags found inside into a single reconstructed bag. The tool will check that the reconstructed bag is a faithful reconstruction of the original. If the input directory's name ended in "\_split" (this is added by the LoC tool when it splits a bag), the resulting directory will have the same name with "\_split" removed; if the input directory name did not end in "\_split", "\_merged" will be added to the name of the input directory.
-
