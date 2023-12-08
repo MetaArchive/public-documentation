@@ -1,14 +1,6 @@
-MetaArchive Tools
-=================
-
-
-
+# MetaArchive Tools
 
 MetaArchive manages the LOCKSS network using several visualization and monitoring tools.
-
-  
-
-
 
 
 <table class="wrapped confluenceTable">
