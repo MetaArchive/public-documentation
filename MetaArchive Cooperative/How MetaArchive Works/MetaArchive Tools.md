@@ -63,10 +63,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    </td>
    <td>
     <span>
-     <a href="/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus">
-      Conspectus
-     </a>
-     <br/>
+     [Conspectus](/public-documentation/MetaArchive Cooperative/Knowledge Base/Conspectus.md)
     </span>
    </td>
    <td>
