@@ -4,9 +4,10 @@ Archival Units (AUs)
 
 1. ordered toc
 {:toc}
-* [AU Size](#ArchivalUnits(AUs)-AUSize)
-* [Tarring / Zipping / Compressing AUs](#ArchivalUnits(AUs)-Tarring/Zipping/CompressingAUs)
-
+<ol> 
+<li>[AU Size](#ArchivalUnits(AUs)-AUSize)</li>
+<li>[Tarring / Zipping / Compressing AUs](#ArchivalUnits(AUs)-Tarring/Zipping/CompressingAUs)</li>
+</ol>
 Archival units (AUs) are containers for files preserved in LOCKSS. Each AU has an [AUID](/public-documentation/MetaArchive Cooperative/Knowledge Base/AUID - Archival Unit ID), associated administrative metadata, and member URLs or files. Each LOCKSS cache stores AUs in opaque directories on the server filesystem, each AU is self-contained and self-describing. AU directories can be mapped to AUIDs. 
 
 AUs are a meaningful aggregation of content (e.g., a discrete subset of a digital collection, a volume of a journal, etc.) and are closely related to the concept of an [object](/public-documentation/MetaArchive Cooperative/Knowledge Base/Object). At MetaArchive, AU's are organized into  [collections](/public-documentation/MetaArchive Cooperative/Knowledge Base/Collection) via Conspectus. Each AU must be ingested via a [plugin](/public-documentation/MetaArchive Cooperative/Knowledge Base/Plugin).
