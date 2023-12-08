@@ -108,7 +108,7 @@ MetaArchive manages the LOCKSS network using several visualization and monitorin
    <td>
     <p>
      <span>
-      In production
+      Currently in limited production, but status may change soon
      </span>
     </p>
    </td>
