@@ -14,7 +14,7 @@ MetaArchive's use of LOCKSS means that large collections need to be aggregated i
 
 When a MetaArchive member chooses to use BagIt for their collections prior to an ingest, the [Java BagIt Library](https://github.com/LibraryOfCongress/bagit-java) has an in-built mechanism for splitting a large Bag into smaller sub-Bag AUs conformant to our 30GB upper limit (bag splitbagbysize <BAG> --maxbagsize 30). To facilitate proper handling of AU formation the MetaArchive has developed a custom script that can work in conjunction with use of the Java BagIt Library. This script validates that a split did not result in any loss of files and produces a new metadata folder to retain the original Bag files in order to facilitate a reconstruction of the original Bag upon a future export/recovery from MetaArchive.
 
-Making use of the Bag Split Utility occurs during Step 9 in [Getting Started with BagIt for MetaArchive](https://wiki.metaarchive.org/metawiki/index.php/Getting_Started_with_BagIt_for_MetaArchive "Getting Started with BagIt for MetaArchive").
+Making use of the Bag Split Utility occurs during Step 9 in [Getting Started with BagIt for MetaArchive](https://wiki.metaarchive.org/metawiki/index.php/Getting_Started_with_BagIt_for_MetaArchive "Getting Started with BagIt for MetaArchive") [NEED TO FIND THIS REFERENCE!--RH].
 
 The Bag Split Utility can be obtained from our MetaArchive GitHub repository here: <https://github.com/MetaArchive/bagit-split>. Usage is documented in the README, which is also provided below. The "unsplitting" function mentioned can be ignored during the process of preparing collections for a BagIt ingest into MetaArchive.
 
