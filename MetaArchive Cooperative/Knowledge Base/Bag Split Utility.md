@@ -18,7 +18,7 @@ Making use of the Bag Split Utility occurs during Step 9 in [Getting Started wit
 
 The Bag Split Utility can be obtained from our MetaArchive GitHub repository here: <https://github.com/MetaArchive/bagit-split>. Usage is documented in the README, which is also provided below. The "unsplitting" function mentioned can be ignored during the process of preparing collections for a BagIt ingest into MetaArchive.
 
-##Bag Split Utility Usage
+## Bag Split Utility Usage
 
 ### Overview
 
