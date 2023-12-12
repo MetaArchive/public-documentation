@@ -34,7 +34,7 @@ To see the full command-line help text, do:
 
   $ python bag-split.py splitcheck <BAG>
 
-The first command above uses the official BagIt command-line utility (bag) to split the original, in this example using 30GB as the per-bag limit. You can also use --maxbagsize values like .001 to indicate 1 MB (for example). You must be in the /bin directory of the BagIt utility to execute the command (if you use BitCurator, the BagIt Library (BIL) tool launches the terminal in the /bin directory). See the Library of Congress's [README file](https://github.com/LibraryOfCongress/bagit-java/blob/master/README.txt) and [an issue on GitHub](https://github.com/LibraryOfCongress/bagit-java/issues/9) for more information on building and running the utility.
+The first command above uses the official BagIt command-line utility (bag) to split the original, in this example using 30GB as the per-bag limit. You can also use --maxbagsize values like .001 to indicate 1 MB (for example). You must be in the /bin directory of the BagIt utility to execute the command (if you use BitCurator, the BagIt Library (BIL) tool launches the terminal in the /bin directory). See the Library of Congress's [README file](https://github.com/LibraryOfCongress/bagit-java/blob/master/README.md) and [an issue on GitHub](https://github.com/LibraryOfCongress/bagit-java/issues/9) for more information on building and running the utility.
 
 The second command uses this tool to verify the split bags against the original bag for integrity and completeness, as well as to create an additional "metadata" bag among the split bags; the /data directory of the metadata bag will contain the original bag's manifests and bag-info.txt file.
 
