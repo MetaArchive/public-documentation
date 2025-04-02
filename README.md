@@ -1,4 +1,6 @@
-# Welcome to MetaArchive's Public Documentation Wiki!
+**MetaArchive is sunset as of 3/31/2025. MetaArchive's code and documentation remains available as an archive of the network's 20 years of operation.**
+
+# [Archived] Welcome to MetaArchive's Public Documentation Wiki!
 
 **[This repository's wiki](https://github.com/MetaArchive/public-documentation/wiki)** contains information for member institutions' data wranglers and content managers, as well as folks from other [Private LOCKSS Networks (PLNs)](https://github.com/MetaArchive/public-documentation/wiki/PLN-%E2%80%90-Private-LOCKSS-Network) who may be interested in how we do things at MetaArchive.
 
